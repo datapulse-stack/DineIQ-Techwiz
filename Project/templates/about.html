@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>About — Data Pulse</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% set ambient = true %}{% include '_scene.html' %}
+<div class="about-wrap">
+
+  <div class="admin-head">
+    <div class="brand" style="padding:0">
+      <div class="mark">DI</div>
+      <div><h1 style="font-size:17px;margin:0">DineIQ<span style="color:var(--brand)"> Analytics</span></h1>
+        <small class="pulse-word" style="font-size:12px">Data Pulse</small></div>
+    </div>
+    <a class="btn back" href="{{ url_for('home') if user else url_for('login') }}" style="margin-left:auto">← Back to dashboard</a>
+  </div>
+
+  <!-- hero -->
+  <div class="about-hero card">
+    <div class="about-badge">About the platform</div>
+    <h1 class="about-title">Data <span class="pulse-word">Pulse</span></h1>
+    <p class="about-tag">The heartbeat of your restaurant, in real numbers.</p>
+    <p class="about-lead">Data Pulse turns raw point-of-sale, inventory and customer records into
+      decisions an owner can act on this week — what to cook, what to price, what to cut and
+      where to grow. No spreadsheets to wrangle, no data-science degree required.</p>
+  </div>
+
+  <!-- what it does -->
+  <div class="grid cols-3" style="margin-top:16px">
+    <div class="card about-feat"><div class="af-ic">📈</div><h3>Sees everything</h3>
+      <p>Revenue, profit, orders, wastage, forecasts, pricing, promotions, market-basket and
+         per-location performance — 13 boards from one pipeline.</p></div>
+    <div class="card about-feat"><div class="af-ic">🧠</div><h3>Two brains, cross-checked</h3>
+      <p>An independent Spark-style pipeline and a Python pipeline classify every dish, then
+         we compare them so you trust the answer, not a black box.</p></div>
+    <div class="card about-feat"><div class="af-ic">🎯</div><h3>Tells you what to do</h3>
+      <p>Every board ends in a plain-English action, ranked by impact — from "cap this promo"
+         to "raise price here, it has headroom".</p></div>
+    <div class="card about-feat"><div class="af-ic">🔒</div><h3>Roles that matter</h3>
+      <p>Analyst reads, Manager exports and plans, Admin manages people — each with a genuinely
+         different, permission-enforced experience.</p></div>
+    <div class="card about-feat"><div class="af-ic">💬</div><h3>Ask it anything</h3>
+      <p>The built-in assistant answers questions about your numbers in seconds — "what's my
+         top item?", "how bad is wastage?" — straight from live data.</p></div>
+    <div class="card about-feat"><div class="af-ic">🎨</div><h3>Built to be lived in</h3>
+      <p>A calm, premium interface with light and dark themes and a restaurant ambience —
+         designed for a busy owner, not a lab.</p></div>
+  </div>
+
+  <!-- story -->
+  <div class="card" style="margin-top:16px">
+    <h3>Why we built it</h3>
+    <p class="sub" style="margin-bottom:10px">The story behind Data Pulse</p>
+    <p style="line-height:1.7;color:var(--ink-2)">Most restaurants sit on a goldmine of data and never touch it.
+      The reports are too technical, the tools too expensive, and the day is too busy. Data Pulse was built to
+      close that gap: take the same techniques big chains pay analysts for — segmentation, elasticity, demand
+      forecasting, anomaly detection — and hand them to any owner in a form they can read in a single glance
+      and act on before the next service.</p>
+  </div>
+
+  <!-- stats strip -->
+  <div class="grid cols-4" style="margin-top:16px">
+    <div class="card kpi about-stat"><div class="val">13</div><div class="lbl">analysis boards</div></div>
+    <div class="card kpi about-stat"><div class="val">12+</div><div class="lbl">exportable reports</div></div>
+    <div class="card kpi about-stat"><div class="val">2</div><div class="lbl">independent ML pipelines</div></div>
+    <div class="card kpi about-stat"><div class="val">100%</div><div class="lbl">Python & open formats</div></div>
+  </div>
+
+  <!-- team section -->
+  <!-- team section -->
+  <div style="margin-top:24px">
+    <h3 style="margin-bottom:4px">Meet the Team</h3>
+    <p class="sub" style="margin-bottom:16px">The engineers behind Data Pulse</p>
+    
+    
+
+      
+
+      <div class="grid cols-4">
+        <div class="card about-team" style="text-align:center;padding:20px 16px">
+          <img src="{{ url_for('static', filename='images/Jatin.jpeg') }}" alt="Jatin" style="width:72px;height:72px;border-radius:50%;object-fit:cover;margin:0 auto 12px auto;display:block;border:2px solid var(--brand);" />
+          <h4 style="margin:0 0 4px 0;font-size:16px">Jatin Kumar</h4>
+          <small style="color:var(--brand);font-weight:600;display:block;margin-bottom:8px"> ML Engineer
+          </small>
+          <p style="font-size:13px;line-height:1.4;margin:0;color:var(--ink-2)">Developed demand forecasting and market-basket models.
+            </p>
+        </div>
+        <div class="card about-team" style="text-align:center;padding:20px 16px">
+          <img src="{{ url_for('static', filename='images/Abdullah.jpeg') }}" alt="Abdullah" style="width:72px;height:72px;border-radius:50%;object-fit:cover;margin:0 auto 12px auto;display:block;border:2px solid var(--brand);" />
+          <h4 style="margin:0 0 4px 0;font-size:16px">Abdullah</h4>
+          <small style="color:var(--brand);font-weight:600;display:block;margin-bottom:8px">Data Engineer</small>
+          <p style="font-size:13px;line-height:1.4;margin:0;color:var(--ink-2)">Architected the PySpark and Python data processing pipelines.</p>
+        </div>
+
+      <div class="card about-team" style="text-align:center;padding:20px 16px">
+        <img src="{{ url_for('static', filename='images/Shahzaib.jpeg') }}" alt="Shahzaib" style="width:72px;height:72px;border-radius:50%;object-fit:cover;margin:0 auto 12px auto;display:block;border:2px solid var(--brand);" />
+        <h4 style="margin:0 0 4px 0;font-size:16px">Shahzaib</h4>
+        <small style="color:var(--brand);font-weight:600;display:block;margin-bottom:8px">Frontend Developer</small>
+        <p style="font-size:13px;line-height:1.4;margin:0;color:var(--ink-2)">Designed the responsive UI boards and ambient user experience.</p>
+      </div>
+
+      <div class="card about-team" style="text-align:center;padding:20px 16px">
+        <img src="{{ url_for('static', filename='images/Hashir.jpeg') }}" alt="Hashir" style="width:72px;height:72px;border-radius:50%;object-fit:cover;margin:0 auto 12px auto;display:block;border:2px solid var(--brand);" />
+        <h4 style="margin:0 0 4px 0;font-size:16px">Hashir</h4>
+        <small style="color:var(--brand);font-weight:600;display:block;margin-bottom:8px">Backend & Security</small>
+        <p style="font-size:13px;line-height:1.4;margin:0;color:var(--ink-2)">Implemented RBAC security, API integration, and user authentication.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="about-foot">Data Pulse — DineIQ Analytics · MenuMatrix engine · a student data-engineering project.</div>
+</div>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+a_id,b_id,a,b,support,confidence,lift
+M045,M049,Mixed Grill,Four Cheese Pasta,0.002,0.046,1.05
+M009,M085,Hummus Platter,Vegetable Pulao,0.0028,0.056,1.03
+M070,M132,Steak Sandwich,Virgin Mojito,0.0021,0.041,1.03
+M112,M140,Apple Pie,Side Salad,0.002,0.064,1.03
+M025,M124,Beef Wellington,Iced Latte,0.0024,0.054,1.03
+M026,M058,Duck Confit,Seafood Linguine,0.0022,0.056,1.03
+M067,M098,Club Sandwich,Seafood Platter,0.0025,0.039,1.03
+M030,M039,Paneer Tikka Masala,Char-Grilled Steak,0.0021,0.049,1.02
+M018,M141,Grilled Salmon,Garlic Naan,0.0028,0.056,1.01
+M018,M045,Grilled Salmon,Mixed Grill,0.0022,0.044,1.01
+M103,M132,Tuna Steak,Virgin Mojito,0.0024,0.04,1.01
+M103,M122,Tuna Steak,Craft Cold Brew,0.0023,0.038,1.01
+M094,M118,Crab Cakes,Baklava,0.0028,0.058,1.01
+M088,M140,Lemon Rice,Side Salad,0.0025,0.062,1.01
+M009,M076,Hummus Platter,Chicken Biryani,0.002,0.04,1.01
+M067,M070,Club Sandwich,Steak Sandwich,0.0033,0.052,1.01
+M096,M118,Fried Calamari,Baklava,0.0021,0.058,1.01
+M058,M124,Seafood Linguine,Iced Latte,0.0028,0.052,1.0
+M009,M039,Hummus Platter,Char-Grilled Steak,0.0024,0.048,1.0
+M076,M124,Chicken Biryani,Iced Latte,0.002,0.052,1.0

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sign in — DineIQ Analytics</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% include '_scene.html' %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="auth-brand">
+      <div class="mark">DI</div>
+      <div><h1>DineIQ<span style="color:var(--brand)"> Analytics</span></h1><a class="pulse-word" href="{{ url_for('about') }}" title="About Data Pulse">Data Pulse</a></div>
+    </div>
+    <h2>Welcome back</h2>
+    <p class="lead">Sign in to your dining intelligence dashboard.</p>
+
+    {% with msgs = get_flashed_messages(with_categories=true) %}
+      {% for cat, m in msgs %}<div class="flash {{ cat }}">{{ m }}</div>{% endfor %}
+    {% endwith %}
+
+    <form method="post" action="{{ url_for('login') }}{% if request.args.get('next') %}?next={{ request.args.get('next') }}{% endif %}">
+      <div class="field"><label>Email</label><input type="email" name="email" placeholder="you@restaurant.com" required autofocus /></div>
+      <div class="field"><label>Password</label><input type="password" name="password" placeholder="••••••••" required /></div>
+      <button class="btn primary btn-full" type="submit">Sign in</button>
+    </form>
+
+    <div class="auth-alt" style="margin-top:14px"><a href="{{ url_for('forgot') }}">Forgot your password?</a></div>
+    <div class="auth-alt">New here? <a href="{{ url_for('signup') }}">Create an account</a></div>
+    <div class="hint-box">First run? Use the seeded admin — <b>admin@dineiq.local</b> / <b>admin123</b> — then change it from the admin panel.</div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>

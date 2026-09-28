@@ -1,0 +1,11 @@
+{# Premium restaurant ambience: a cinematic dining photo with a slow ken-burns
+   drift, a soft light sweep, warm bokeh orbs and gentle steam. pass
+   `ambient=true` to dim it behind the dashboard so data stays crisp. #}
+<div class="ambience{% if ambient %} ambient{% endif %}" aria-hidden="true">
+  <div class="shot"></div>
+  <div class="tint"></div>
+  <div class="sheen"></div>
+  <div class="bokeh" id="bokeh"></div>
+  <div class="steam" id="steam"></div>
+  <div class="veil"></div>
+</div>

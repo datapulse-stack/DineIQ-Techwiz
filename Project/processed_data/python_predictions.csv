@@ -1,0 +1,3001 @@
+item_id,name,location_id,rule_label,python_pred
+M001,Truffle Fries,L01,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L01,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L01,Low Performer,Low Performer
+M004,Calamari Rings,L01,Low Performer,Low Performer
+M005,Chicken Wings,L01,Low Performer,Low Performer
+M006,Spring Rolls,L01,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L01,Low Performer,Low Performer
+M008,Bruschetta,L01,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L01,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L01,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L01,Low Performer,Low Performer
+M012,Onion Rings,L01,Low Performer,Low Performer
+M013,Prawn Tempura,L01,Low Performer,Low Performer
+M014,Caesar Salad,L01,Low Performer,Low Performer
+M015,Greek Salad,L01,Low Performer,Low Performer
+M016,Signature Ribeye,L01,Low Performer,Low Performer
+M017,Butter Chicken,L01,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L01,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L01,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L01,Low Performer,Low Performer
+M021,Chicken Alfredo,L01,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L01,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L01,Low Performer,Low Performer
+M024,Roast Chicken,L01,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L01,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L01,Low Performer,Low Performer
+M027,Vegetable Korma,L01,Volume Driver,Volume Driver
+M028,Chicken Parmesan,L01,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L01,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L01,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L01,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L01,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L01,Low Performer,Low Performer
+M034,Lamb Chops,L01,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L01,Low Performer,Low Performer
+M036,Tandoori Chicken,L01,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L01,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L01,Low Performer,Low Performer
+M039,Char-Grilled Steak,L01,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L01,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L01,Low Performer,Low Performer
+M042,Grilled Veg Platter,L01,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L01,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L01,Low Performer,Low Performer
+M045,Mixed Grill,L01,Low Performer,Low Performer
+M046,Margherita Pizza,L01,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L01,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L01,Low Performer,Low Performer
+M049,Four Cheese Pasta,L01,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L01,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L01,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L01,Low Performer,Low Performer
+M053,Penne Arrabbiata,L01,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L01,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L01,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L01,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L01,Low Performer,Low Performer
+M058,Seafood Linguine,L01,Profit Driver,Hidden Opportunity
+M059,Mac and Cheese,L01,Profit Driver,Profit Driver
+M060,Pesto Pasta,L01,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L01,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L01,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L01,Low Performer,Low Performer
+M064,Double Bacon Burger,L01,Low Performer,Low Performer
+M065,Veggie Burger,L01,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L01,Low Performer,Low Performer
+M067,Club Sandwich,L01,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L01,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L01,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L01,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L01,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L01,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L01,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L01,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L01,Low Performer,Low Performer
+M076,Chicken Biryani,L01,Low Performer,Low Performer
+M077,Mutton Biryani,L01,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L01,Low Performer,Low Performer
+M079,Egg Fried Rice,L01,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L01,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L01,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L01,Low Performer,Low Performer
+M083,Mushroom Rice,L01,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L01,Low Performer,Low Performer
+M085,Vegetable Pulao,L01,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L01,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L01,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L01,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L01,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L01,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L01,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L01,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L01,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L01,Low Performer,Low Performer
+M095,Lobster Thermidor,L01,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L01,Low Performer,Low Performer
+M097,Grilled Octopus,L01,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L01,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L01,Low Performer,Low Performer
+M100,Prawn Curry,L01,Low Performer,Low Performer
+M101,Baked Cod,L01,Low Performer,Low Performer
+M102,Mussels Marinara,L01,Profit Driver,Profit Driver
+M103,Tuna Steak,L01,Profit Driver,Hidden Opportunity
+M104,Fish Tacos,L01,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L01,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L01,Low Performer,Low Performer
+M107,New York Cheesecake,L01,Low Performer,Low Performer
+M108,Gelato Trio,L01,Low Performer,Low Performer
+M109,Tiramisu,L01,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L01,Low Performer,Low Performer
+M111,Creme Brulee,L01,Low Performer,Low Performer
+M112,Apple Pie,L01,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L01,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L01,Low Performer,Low Performer
+M115,Panna Cotta,L01,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L01,Low Performer,Low Performer
+M117,Ice Cream Sundae,L01,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L01,Volume Driver,Volume Driver
+M119,Carrot Cake,L01,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L01,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L01,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L01,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L01,Low Performer,Low Performer
+M124,Iced Latte,L01,Low Performer,Volume Driver
+M125,Masala Chai,L01,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L01,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L01,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L01,Low Performer,Low Performer
+M129,Strawberry Milkshake,L01,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L01,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L01,Hidden Opportunity,Low Performer
+M132,Virgin Mojito,L01,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L01,Low Performer,Low Performer
+M134,Berry Smoothie,L01,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L01,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L01,Low Performer,Low Performer
+M137,Mashed Potatoes,L01,Low Performer,Low Performer
+M138,Steamed Vegetables,L01,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L01,Low Performer,Low Performer
+M140,Side Salad,L01,Volume Driver,Volume Driver
+M141,Garlic Naan,L01,Profit Driver,Profit Driver
+M142,Buttered Corn,L01,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L01,Low Performer,Low Performer
+M144,Sweet Potato Fries,L01,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L01,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L01,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L01,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L01,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L01,Low Performer,Low Performer
+M150,Pickle Plate,L01,Low Performer,Low Performer
+M001,Truffle Fries,L02,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L02,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L02,Low Performer,Low Performer
+M004,Calamari Rings,L02,Low Performer,Low Performer
+M005,Chicken Wings,L02,Low Performer,Low Performer
+M006,Spring Rolls,L02,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L02,Low Performer,Low Performer
+M008,Bruschetta,L02,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L02,Low Performer,Low Performer
+M010,Stuffed Mushrooms,L02,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L02,Low Performer,Low Performer
+M012,Onion Rings,L02,Low Performer,Low Performer
+M013,Prawn Tempura,L02,Low Performer,Low Performer
+M014,Caesar Salad,L02,Low Performer,Low Performer
+M015,Greek Salad,L02,Low Performer,Low Performer
+M016,Signature Ribeye,L02,Low Performer,Low Performer
+M017,Butter Chicken,L02,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L02,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L02,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L02,Low Performer,Low Performer
+M021,Chicken Alfredo,L02,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L02,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L02,Low Performer,Low Performer
+M024,Roast Chicken,L02,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L02,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L02,Low Performer,Low Performer
+M027,Vegetable Korma,L02,Low Performer,Low Performer
+M028,Chicken Parmesan,L02,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L02,Hidden Opportunity,Hidden Opportunity
+M030,Paneer Tikka Masala,L02,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L02,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L02,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L02,Low Performer,Low Performer
+M034,Lamb Chops,L02,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L02,Low Performer,Low Performer
+M036,Tandoori Chicken,L02,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L02,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L02,Low Performer,Low Performer
+M039,Char-Grilled Steak,L02,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L02,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L02,Low Performer,Low Performer
+M042,Grilled Veg Platter,L02,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L02,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L02,Low Performer,Low Performer
+M045,Mixed Grill,L02,Low Performer,Low Performer
+M046,Margherita Pizza,L02,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L02,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L02,Low Performer,Low Performer
+M049,Four Cheese Pasta,L02,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L02,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L02,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L02,Low Performer,Low Performer
+M053,Penne Arrabbiata,L02,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L02,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L02,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L02,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L02,Low Performer,Low Performer
+M058,Seafood Linguine,L02,Hidden Opportunity,Profit Driver
+M059,Mac and Cheese,L02,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L02,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L02,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L02,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L02,Low Performer,Low Performer
+M064,Double Bacon Burger,L02,Low Performer,Low Performer
+M065,Veggie Burger,L02,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L02,Low Performer,Low Performer
+M067,Club Sandwich,L02,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L02,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L02,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L02,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L02,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L02,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L02,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L02,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L02,Low Performer,Low Performer
+M076,Chicken Biryani,L02,Low Performer,Low Performer
+M077,Mutton Biryani,L02,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L02,Low Performer,Low Performer
+M079,Egg Fried Rice,L02,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L02,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L02,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L02,Low Performer,Low Performer
+M083,Mushroom Rice,L02,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L02,Low Performer,Low Performer
+M085,Vegetable Pulao,L02,Low Performer,Low Performer
+M086,Schezwan Fried Rice,L02,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L02,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L02,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L02,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L02,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L02,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L02,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L02,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L02,Low Performer,Low Performer
+M095,Lobster Thermidor,L02,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L02,Low Performer,Low Performer
+M097,Grilled Octopus,L02,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L02,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L02,Low Performer,Low Performer
+M100,Prawn Curry,L02,Low Performer,Low Performer
+M101,Baked Cod,L02,Low Performer,Low Performer
+M102,Mussels Marinara,L02,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L02,Hidden Opportunity,Hidden Opportunity
+M104,Fish Tacos,L02,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L02,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L02,Low Performer,Low Performer
+M107,New York Cheesecake,L02,Low Performer,Low Performer
+M108,Gelato Trio,L02,Low Performer,Low Performer
+M109,Tiramisu,L02,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L02,Low Performer,Low Performer
+M111,Creme Brulee,L02,Low Performer,Low Performer
+M112,Apple Pie,L02,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L02,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L02,Low Performer,Low Performer
+M115,Panna Cotta,L02,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L02,Low Performer,Low Performer
+M117,Ice Cream Sundae,L02,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L02,Low Performer,Low Performer
+M119,Carrot Cake,L02,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L02,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L02,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L02,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L02,Low Performer,Low Performer
+M124,Iced Latte,L02,Low Performer,Volume Driver
+M125,Masala Chai,L02,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L02,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L02,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L02,Low Performer,Low Performer
+M129,Strawberry Milkshake,L02,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L02,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L02,Low Performer,Low Performer
+M132,Virgin Mojito,L02,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L02,Low Performer,Low Performer
+M134,Berry Smoothie,L02,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L02,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L02,Low Performer,Low Performer
+M137,Mashed Potatoes,L02,Low Performer,Low Performer
+M138,Steamed Vegetables,L02,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L02,Low Performer,Low Performer
+M140,Side Salad,L02,Low Performer,Volume Driver
+M141,Garlic Naan,L02,Hidden Opportunity,Hidden Opportunity
+M142,Buttered Corn,L02,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L02,Low Performer,Low Performer
+M144,Sweet Potato Fries,L02,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L02,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L02,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L02,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L02,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L02,Low Performer,Low Performer
+M150,Pickle Plate,L02,Low Performer,Low Performer
+M001,Truffle Fries,L03,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L03,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L03,Low Performer,Low Performer
+M004,Calamari Rings,L03,Low Performer,Low Performer
+M005,Chicken Wings,L03,Low Performer,Low Performer
+M006,Spring Rolls,L03,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L03,Low Performer,Low Performer
+M008,Bruschetta,L03,Low Performer,Hidden Opportunity
+M009,Hummus Platter,L03,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L03,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L03,Low Performer,Low Performer
+M012,Onion Rings,L03,Low Performer,Low Performer
+M013,Prawn Tempura,L03,Low Performer,Low Performer
+M014,Caesar Salad,L03,Low Performer,Low Performer
+M015,Greek Salad,L03,Low Performer,Low Performer
+M016,Signature Ribeye,L03,Low Performer,Low Performer
+M017,Butter Chicken,L03,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L03,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L03,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L03,Low Performer,Low Performer
+M021,Chicken Alfredo,L03,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L03,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L03,Low Performer,Low Performer
+M024,Roast Chicken,L03,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L03,Profit Driver,Hidden Opportunity
+M026,Duck Confit,L03,Low Performer,Low Performer
+M027,Vegetable Korma,L03,Low Performer,Low Performer
+M028,Chicken Parmesan,L03,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L03,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L03,Profit Driver,Hidden Opportunity
+M031,Smoked Brisket,L03,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L03,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L03,Low Performer,Low Performer
+M034,Lamb Chops,L03,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L03,Low Performer,Low Performer
+M036,Tandoori Chicken,L03,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L03,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L03,Low Performer,Low Performer
+M039,Char-Grilled Steak,L03,Volume Driver,Volume Driver
+M040,Smoked Sausage Plate,L03,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L03,Low Performer,Low Performer
+M042,Grilled Veg Platter,L03,Profit Driver,Profit Driver
+M043,Beef Short Ribs,L03,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L03,Volume Driver,Volume Driver
+M045,Mixed Grill,L03,Volume Driver,Volume Driver
+M046,Margherita Pizza,L03,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L03,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L03,Low Performer,Low Performer
+M049,Four Cheese Pasta,L03,Volume Driver,Low Performer
+M050,BBQ Chicken Pizza,L03,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L03,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L03,Low Performer,Low Performer
+M053,Penne Arrabbiata,L03,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L03,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L03,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L03,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L03,Low Performer,Low Performer
+M058,Seafood Linguine,L03,Profit Driver,Profit Driver
+M059,Mac and Cheese,L03,Profit Driver,Hidden Opportunity
+M060,Pesto Pasta,L03,Profit Driver,Hidden Opportunity
+M061,Classic Beef Burger,L03,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L03,Volume Driver,Volume Driver
+M063,Crispy Chicken Burger,L03,Low Performer,Low Performer
+M064,Double Bacon Burger,L03,Low Performer,Low Performer
+M065,Veggie Burger,L03,Profit Driver,Profit Driver
+M066,Pulled Pork Sandwich,L03,Low Performer,Low Performer
+M067,Club Sandwich,L03,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L03,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L03,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L03,Profit Driver,Profit Driver
+M071,Falafel Wrap,L03,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L03,Volume Driver,Volume Driver
+M073,BBQ Bacon Burger,L03,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L03,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L03,Low Performer,Low Performer
+M076,Chicken Biryani,L03,Volume Driver,Volume Driver
+M077,Mutton Biryani,L03,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L03,Low Performer,Low Performer
+M079,Egg Fried Rice,L03,Profit Driver,Profit Driver
+M080,Chicken Fried Rice,L03,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L03,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L03,Low Performer,Low Performer
+M083,Mushroom Rice,L03,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L03,Low Performer,Low Performer
+M085,Vegetable Pulao,L03,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L03,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L03,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L03,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L03,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L03,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L03,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L03,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L03,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L03,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L03,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L03,Low Performer,Low Performer
+M097,Grilled Octopus,L03,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L03,Profit Driver,Profit Driver
+M099,Salmon Teriyaki,L03,Low Performer,Low Performer
+M100,Prawn Curry,L03,Low Performer,Low Performer
+M101,Baked Cod,L03,Low Performer,Low Performer
+M102,Mussels Marinara,L03,Profit Driver,Profit Driver
+M103,Tuna Steak,L03,Profit Driver,Profit Driver
+M104,Fish Tacos,L03,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L03,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L03,Volume Driver,Volume Driver
+M107,New York Cheesecake,L03,Low Performer,Low Performer
+M108,Gelato Trio,L03,Low Performer,Low Performer
+M109,Tiramisu,L03,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L03,Low Performer,Low Performer
+M111,Creme Brulee,L03,Low Performer,Low Performer
+M112,Apple Pie,L03,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L03,Profit Driver,Hidden Opportunity
+M114,Banoffee Pie,L03,Volume Driver,Volume Driver
+M115,Panna Cotta,L03,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L03,Low Performer,Low Performer
+M117,Ice Cream Sundae,L03,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L03,Volume Driver,Volume Driver
+M119,Carrot Cake,L03,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L03,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L03,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L03,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L03,Low Performer,Low Performer
+M124,Iced Latte,L03,Volume Driver,Volume Driver
+M125,Masala Chai,L03,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L03,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L03,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L03,Low Performer,Low Performer
+M129,Strawberry Milkshake,L03,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L03,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L03,Low Performer,Low Performer
+M132,Virgin Mojito,L03,Profit Driver,Profit Driver
+M133,Espresso,L03,Low Performer,Low Performer
+M134,Berry Smoothie,L03,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L03,Profit Driver,Profit Driver
+M136,French Fries,L03,Low Performer,Low Performer
+M137,Mashed Potatoes,L03,Low Performer,Low Performer
+M138,Steamed Vegetables,L03,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L03,Low Performer,Low Performer
+M140,Side Salad,L03,Volume Driver,Volume Driver
+M141,Garlic Naan,L03,Profit Driver,Profit Driver
+M142,Buttered Corn,L03,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L03,Low Performer,Low Performer
+M144,Sweet Potato Fries,L03,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L03,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L03,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L03,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L03,Profit Driver,Hidden Opportunity
+M149,Dinner Roll,L03,Low Performer,Low Performer
+M150,Pickle Plate,L03,Low Performer,Low Performer
+M001,Truffle Fries,L04,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L04,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L04,Low Performer,Low Performer
+M004,Calamari Rings,L04,Low Performer,Low Performer
+M005,Chicken Wings,L04,Low Performer,Low Performer
+M006,Spring Rolls,L04,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L04,Low Performer,Low Performer
+M008,Bruschetta,L04,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L04,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L04,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L04,Low Performer,Low Performer
+M012,Onion Rings,L04,Low Performer,Low Performer
+M013,Prawn Tempura,L04,Low Performer,Low Performer
+M014,Caesar Salad,L04,Low Performer,Low Performer
+M015,Greek Salad,L04,Low Performer,Low Performer
+M016,Signature Ribeye,L04,Low Performer,Low Performer
+M017,Butter Chicken,L04,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L04,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L04,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L04,Low Performer,Low Performer
+M021,Chicken Alfredo,L04,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L04,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L04,Low Performer,Low Performer
+M024,Roast Chicken,L04,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L04,Profit Driver,Hidden Opportunity
+M026,Duck Confit,L04,Low Performer,Low Performer
+M027,Vegetable Korma,L04,Low Performer,Low Performer
+M028,Chicken Parmesan,L04,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L04,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L04,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L04,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L04,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L04,Low Performer,Low Performer
+M034,Lamb Chops,L04,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L04,Low Performer,Low Performer
+M036,Tandoori Chicken,L04,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L04,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L04,Low Performer,Low Performer
+M039,Char-Grilled Steak,L04,Volume Driver,Low Performer
+M040,Smoked Sausage Plate,L04,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L04,Low Performer,Low Performer
+M042,Grilled Veg Platter,L04,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L04,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L04,Low Performer,Low Performer
+M045,Mixed Grill,L04,Volume Driver,Low Performer
+M046,Margherita Pizza,L04,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L04,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L04,Low Performer,Low Performer
+M049,Four Cheese Pasta,L04,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L04,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L04,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L04,Low Performer,Low Performer
+M053,Penne Arrabbiata,L04,Profit Driver,Profit Driver
+M054,Lasagne al Forno,L04,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L04,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L04,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L04,Low Performer,Low Performer
+M058,Seafood Linguine,L04,Profit Driver,Hidden Opportunity
+M059,Mac and Cheese,L04,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L04,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L04,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L04,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L04,Low Performer,Low Performer
+M064,Double Bacon Burger,L04,Low Performer,Low Performer
+M065,Veggie Burger,L04,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L04,Low Performer,Low Performer
+M067,Club Sandwich,L04,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L04,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L04,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L04,Profit Driver,Profit Driver
+M071,Falafel Wrap,L04,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L04,Volume Driver,Volume Driver
+M073,BBQ Bacon Burger,L04,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L04,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L04,Low Performer,Low Performer
+M076,Chicken Biryani,L04,Low Performer,Low Performer
+M077,Mutton Biryani,L04,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L04,Low Performer,Low Performer
+M079,Egg Fried Rice,L04,Profit Driver,Profit Driver
+M080,Chicken Fried Rice,L04,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L04,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L04,Low Performer,Low Performer
+M083,Mushroom Rice,L04,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L04,Low Performer,Low Performer
+M085,Vegetable Pulao,L04,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L04,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L04,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L04,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L04,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L04,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L04,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L04,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L04,Profit Driver,Hidden Opportunity
+M094,Crab Cakes,L04,Volume Driver,Low Performer
+M095,Lobster Thermidor,L04,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L04,Low Performer,Low Performer
+M097,Grilled Octopus,L04,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L04,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L04,Low Performer,Low Performer
+M100,Prawn Curry,L04,Low Performer,Low Performer
+M101,Baked Cod,L04,Low Performer,Low Performer
+M102,Mussels Marinara,L04,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L04,Profit Driver,Hidden Opportunity
+M104,Fish Tacos,L04,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L04,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L04,Low Performer,Low Performer
+M107,New York Cheesecake,L04,Low Performer,Low Performer
+M108,Gelato Trio,L04,Low Performer,Low Performer
+M109,Tiramisu,L04,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L04,Low Performer,Low Performer
+M111,Creme Brulee,L04,Low Performer,Low Performer
+M112,Apple Pie,L04,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L04,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L04,Low Performer,Low Performer
+M115,Panna Cotta,L04,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L04,Low Performer,Low Performer
+M117,Ice Cream Sundae,L04,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L04,Volume Driver,Volume Driver
+M119,Carrot Cake,L04,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L04,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L04,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L04,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L04,Low Performer,Low Performer
+M124,Iced Latte,L04,Volume Driver,Volume Driver
+M125,Masala Chai,L04,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L04,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L04,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L04,Low Performer,Low Performer
+M129,Strawberry Milkshake,L04,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L04,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L04,Low Performer,Low Performer
+M132,Virgin Mojito,L04,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L04,Low Performer,Low Performer
+M134,Berry Smoothie,L04,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L04,Profit Driver,Hidden Opportunity
+M136,French Fries,L04,Low Performer,Low Performer
+M137,Mashed Potatoes,L04,Low Performer,Low Performer
+M138,Steamed Vegetables,L04,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L04,Low Performer,Low Performer
+M140,Side Salad,L04,Volume Driver,Volume Driver
+M141,Garlic Naan,L04,Profit Driver,Profit Driver
+M142,Buttered Corn,L04,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L04,Low Performer,Low Performer
+M144,Sweet Potato Fries,L04,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L04,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L04,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L04,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L04,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L04,Low Performer,Low Performer
+M150,Pickle Plate,L04,Low Performer,Low Performer
+M001,Truffle Fries,L05,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L05,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L05,Low Performer,Low Performer
+M004,Calamari Rings,L05,Low Performer,Low Performer
+M005,Chicken Wings,L05,Low Performer,Low Performer
+M006,Spring Rolls,L05,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L05,Low Performer,Low Performer
+M008,Bruschetta,L05,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L05,Low Performer,Volume Driver
+M010,Stuffed Mushrooms,L05,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L05,Low Performer,Low Performer
+M012,Onion Rings,L05,Low Performer,Low Performer
+M013,Prawn Tempura,L05,Low Performer,Low Performer
+M014,Caesar Salad,L05,Low Performer,Low Performer
+M015,Greek Salad,L05,Low Performer,Low Performer
+M016,Signature Ribeye,L05,Low Performer,Low Performer
+M017,Butter Chicken,L05,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L05,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L05,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L05,Low Performer,Low Performer
+M021,Chicken Alfredo,L05,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L05,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L05,Low Performer,Low Performer
+M024,Roast Chicken,L05,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L05,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L05,Low Performer,Low Performer
+M027,Vegetable Korma,L05,Low Performer,Low Performer
+M028,Chicken Parmesan,L05,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L05,Hidden Opportunity,Hidden Opportunity
+M030,Paneer Tikka Masala,L05,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L05,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L05,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L05,Low Performer,Low Performer
+M034,Lamb Chops,L05,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L05,Low Performer,Low Performer
+M036,Tandoori Chicken,L05,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L05,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L05,Low Performer,Low Performer
+M039,Char-Grilled Steak,L05,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L05,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L05,Low Performer,Low Performer
+M042,Grilled Veg Platter,L05,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L05,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L05,Low Performer,Low Performer
+M045,Mixed Grill,L05,Low Performer,Low Performer
+M046,Margherita Pizza,L05,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L05,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L05,Low Performer,Low Performer
+M049,Four Cheese Pasta,L05,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L05,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L05,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L05,Low Performer,Low Performer
+M053,Penne Arrabbiata,L05,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L05,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L05,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L05,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L05,Low Performer,Low Performer
+M058,Seafood Linguine,L05,Hidden Opportunity,Hidden Opportunity
+M059,Mac and Cheese,L05,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L05,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L05,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L05,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L05,Low Performer,Low Performer
+M064,Double Bacon Burger,L05,Low Performer,Low Performer
+M065,Veggie Burger,L05,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L05,Low Performer,Low Performer
+M067,Club Sandwich,L05,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L05,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L05,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L05,Profit Driver,Profit Driver
+M071,Falafel Wrap,L05,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L05,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L05,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L05,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L05,Low Performer,Low Performer
+M076,Chicken Biryani,L05,Low Performer,Low Performer
+M077,Mutton Biryani,L05,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L05,Low Performer,Low Performer
+M079,Egg Fried Rice,L05,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L05,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L05,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L05,Low Performer,Low Performer
+M083,Mushroom Rice,L05,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L05,Low Performer,Low Performer
+M085,Vegetable Pulao,L05,Low Performer,Low Performer
+M086,Schezwan Fried Rice,L05,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L05,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L05,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L05,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L05,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L05,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L05,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L05,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L05,Low Performer,Low Performer
+M095,Lobster Thermidor,L05,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L05,Low Performer,Low Performer
+M097,Grilled Octopus,L05,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L05,Profit Driver,Profit Driver
+M099,Salmon Teriyaki,L05,Low Performer,Low Performer
+M100,Prawn Curry,L05,Low Performer,Low Performer
+M101,Baked Cod,L05,Low Performer,Low Performer
+M102,Mussels Marinara,L05,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L05,Hidden Opportunity,Profit Driver
+M104,Fish Tacos,L05,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L05,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L05,Low Performer,Low Performer
+M107,New York Cheesecake,L05,Low Performer,Low Performer
+M108,Gelato Trio,L05,Low Performer,Low Performer
+M109,Tiramisu,L05,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L05,Low Performer,Low Performer
+M111,Creme Brulee,L05,Low Performer,Low Performer
+M112,Apple Pie,L05,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L05,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L05,Low Performer,Low Performer
+M115,Panna Cotta,L05,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L05,Low Performer,Low Performer
+M117,Ice Cream Sundae,L05,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L05,Low Performer,Low Performer
+M119,Carrot Cake,L05,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L05,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L05,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L05,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L05,Low Performer,Low Performer
+M124,Iced Latte,L05,Low Performer,Low Performer
+M125,Masala Chai,L05,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L05,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L05,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L05,Low Performer,Low Performer
+M129,Strawberry Milkshake,L05,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L05,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L05,Low Performer,Low Performer
+M132,Virgin Mojito,L05,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L05,Low Performer,Low Performer
+M134,Berry Smoothie,L05,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L05,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L05,Low Performer,Low Performer
+M137,Mashed Potatoes,L05,Low Performer,Low Performer
+M138,Steamed Vegetables,L05,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L05,Low Performer,Low Performer
+M140,Side Salad,L05,Volume Driver,Volume Driver
+M141,Garlic Naan,L05,Hidden Opportunity,Profit Driver
+M142,Buttered Corn,L05,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L05,Low Performer,Low Performer
+M144,Sweet Potato Fries,L05,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L05,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L05,Hidden Opportunity,Profit Driver
+M147,Grilled Corn,L05,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L05,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L05,Low Performer,Low Performer
+M150,Pickle Plate,L05,Low Performer,Low Performer
+M001,Truffle Fries,L06,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L06,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L06,Low Performer,Low Performer
+M004,Calamari Rings,L06,Low Performer,Low Performer
+M005,Chicken Wings,L06,Low Performer,Low Performer
+M006,Spring Rolls,L06,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L06,Low Performer,Low Performer
+M008,Bruschetta,L06,Low Performer,Low Performer
+M009,Hummus Platter,L06,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L06,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L06,Low Performer,Low Performer
+M012,Onion Rings,L06,Low Performer,Low Performer
+M013,Prawn Tempura,L06,Low Performer,Low Performer
+M014,Caesar Salad,L06,Low Performer,Low Performer
+M015,Greek Salad,L06,Low Performer,Low Performer
+M016,Signature Ribeye,L06,Low Performer,Low Performer
+M017,Butter Chicken,L06,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L06,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L06,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L06,Low Performer,Low Performer
+M021,Chicken Alfredo,L06,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L06,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L06,Low Performer,Low Performer
+M024,Roast Chicken,L06,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L06,Profit Driver,Profit Driver
+M026,Duck Confit,L06,Volume Driver,Volume Driver
+M027,Vegetable Korma,L06,Low Performer,Low Performer
+M028,Chicken Parmesan,L06,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L06,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L06,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L06,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L06,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L06,Low Performer,Low Performer
+M034,Lamb Chops,L06,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L06,Low Performer,Low Performer
+M036,Tandoori Chicken,L06,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L06,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L06,Low Performer,Low Performer
+M039,Char-Grilled Steak,L06,Volume Driver,Volume Driver
+M040,Smoked Sausage Plate,L06,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L06,Low Performer,Low Performer
+M042,Grilled Veg Platter,L06,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L06,Low Performer,Low Performer
+M044,Spicy Buffalo Wings,L06,Volume Driver,Low Performer
+M045,Mixed Grill,L06,Low Performer,Low Performer
+M046,Margherita Pizza,L06,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L06,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L06,Volume Driver,Volume Driver
+M049,Four Cheese Pasta,L06,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L06,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L06,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L06,Low Performer,Low Performer
+M053,Penne Arrabbiata,L06,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L06,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L06,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L06,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L06,Low Performer,Low Performer
+M058,Seafood Linguine,L06,Profit Driver,Profit Driver
+M059,Mac and Cheese,L06,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L06,Profit Driver,Profit Driver
+M061,Classic Beef Burger,L06,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L06,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L06,Low Performer,Low Performer
+M064,Double Bacon Burger,L06,Low Performer,Low Performer
+M065,Veggie Burger,L06,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L06,Low Performer,Low Performer
+M067,Club Sandwich,L06,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L06,Low Performer,Low Performer
+M069,Fish Burger,L06,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L06,Profit Driver,Profit Driver
+M071,Falafel Wrap,L06,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L06,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L06,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L06,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L06,Low Performer,Low Performer
+M076,Chicken Biryani,L06,Low Performer,Low Performer
+M077,Mutton Biryani,L06,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L06,Low Performer,Low Performer
+M079,Egg Fried Rice,L06,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L06,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L06,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L06,Low Performer,Low Performer
+M083,Mushroom Rice,L06,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L06,Low Performer,Low Performer
+M085,Vegetable Pulao,L06,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L06,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L06,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L06,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L06,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L06,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L06,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L06,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L06,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L06,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L06,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L06,Low Performer,Low Performer
+M097,Grilled Octopus,L06,Profit Driver,Profit Driver
+M098,Seafood Platter,L06,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L06,Low Performer,Low Performer
+M100,Prawn Curry,L06,Low Performer,Low Performer
+M101,Baked Cod,L06,Low Performer,Low Performer
+M102,Mussels Marinara,L06,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L06,Profit Driver,Profit Driver
+M104,Fish Tacos,L06,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L06,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L06,Low Performer,Low Performer
+M107,New York Cheesecake,L06,Low Performer,Low Performer
+M108,Gelato Trio,L06,Low Performer,Low Performer
+M109,Tiramisu,L06,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L06,Low Performer,Low Performer
+M111,Creme Brulee,L06,Low Performer,Low Performer
+M112,Apple Pie,L06,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L06,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L06,Low Performer,Low Performer
+M115,Panna Cotta,L06,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L06,Low Performer,Low Performer
+M117,Ice Cream Sundae,L06,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L06,Volume Driver,Volume Driver
+M119,Carrot Cake,L06,Low Performer,Low Performer
+M120,Red Velvet Slice,L06,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L06,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L06,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L06,Low Performer,Low Performer
+M124,Iced Latte,L06,Volume Driver,Volume Driver
+M125,Masala Chai,L06,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L06,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L06,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L06,Low Performer,Low Performer
+M129,Strawberry Milkshake,L06,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L06,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L06,Low Performer,Low Performer
+M132,Virgin Mojito,L06,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L06,Low Performer,Low Performer
+M134,Berry Smoothie,L06,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L06,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L06,Low Performer,Low Performer
+M137,Mashed Potatoes,L06,Low Performer,Low Performer
+M138,Steamed Vegetables,L06,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L06,Low Performer,Low Performer
+M140,Side Salad,L06,Volume Driver,Volume Driver
+M141,Garlic Naan,L06,Profit Driver,Profit Driver
+M142,Buttered Corn,L06,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L06,Low Performer,Low Performer
+M144,Sweet Potato Fries,L06,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L06,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L06,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L06,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L06,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L06,Low Performer,Low Performer
+M150,Pickle Plate,L06,Low Performer,Low Performer
+M001,Truffle Fries,L07,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L07,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L07,Low Performer,Low Performer
+M004,Calamari Rings,L07,Low Performer,Low Performer
+M005,Chicken Wings,L07,Low Performer,Low Performer
+M006,Spring Rolls,L07,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L07,Low Performer,Low Performer
+M008,Bruschetta,L07,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L07,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L07,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L07,Low Performer,Low Performer
+M012,Onion Rings,L07,Low Performer,Low Performer
+M013,Prawn Tempura,L07,Volume Driver,Volume Driver
+M014,Caesar Salad,L07,Low Performer,Low Performer
+M015,Greek Salad,L07,Low Performer,Low Performer
+M016,Signature Ribeye,L07,Low Performer,Low Performer
+M017,Butter Chicken,L07,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L07,Hidden Opportunity,Profit Driver
+M019,Mushroom Risotto,L07,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L07,Low Performer,Low Performer
+M021,Chicken Alfredo,L07,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L07,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L07,Low Performer,Low Performer
+M024,Roast Chicken,L07,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L07,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L07,Low Performer,Low Performer
+M027,Vegetable Korma,L07,Low Performer,Low Performer
+M028,Chicken Parmesan,L07,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L07,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L07,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L07,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L07,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L07,Low Performer,Low Performer
+M034,Lamb Chops,L07,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L07,Low Performer,Low Performer
+M036,Tandoori Chicken,L07,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L07,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L07,Low Performer,Low Performer
+M039,Char-Grilled Steak,L07,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L07,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L07,Low Performer,Low Performer
+M042,Grilled Veg Platter,L07,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L07,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L07,Low Performer,Low Performer
+M045,Mixed Grill,L07,Low Performer,Low Performer
+M046,Margherita Pizza,L07,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L07,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L07,Low Performer,Low Performer
+M049,Four Cheese Pasta,L07,Volume Driver,Low Performer
+M050,BBQ Chicken Pizza,L07,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L07,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L07,Low Performer,Low Performer
+M053,Penne Arrabbiata,L07,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L07,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L07,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L07,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L07,Low Performer,Low Performer
+M058,Seafood Linguine,L07,Profit Driver,Profit Driver
+M059,Mac and Cheese,L07,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L07,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L07,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L07,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L07,Low Performer,Low Performer
+M064,Double Bacon Burger,L07,Low Performer,Low Performer
+M065,Veggie Burger,L07,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L07,Low Performer,Low Performer
+M067,Club Sandwich,L07,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L07,Hidden Opportunity,Low Performer
+M069,Fish Burger,L07,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L07,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L07,Profit Driver,Hidden Opportunity
+M072,Philly Cheesesteak,L07,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L07,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L07,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L07,Low Performer,Low Performer
+M076,Chicken Biryani,L07,Low Performer,Low Performer
+M077,Mutton Biryani,L07,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L07,Low Performer,Low Performer
+M079,Egg Fried Rice,L07,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L07,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L07,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L07,Low Performer,Low Performer
+M083,Mushroom Rice,L07,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L07,Low Performer,Low Performer
+M085,Vegetable Pulao,L07,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L07,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L07,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L07,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L07,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L07,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L07,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L07,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L07,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L07,Low Performer,Volume Driver
+M095,Lobster Thermidor,L07,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L07,Low Performer,Low Performer
+M097,Grilled Octopus,L07,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L07,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L07,Low Performer,Low Performer
+M100,Prawn Curry,L07,Low Performer,Low Performer
+M101,Baked Cod,L07,Low Performer,Low Performer
+M102,Mussels Marinara,L07,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L07,Profit Driver,Profit Driver
+M104,Fish Tacos,L07,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L07,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L07,Low Performer,Low Performer
+M107,New York Cheesecake,L07,Low Performer,Low Performer
+M108,Gelato Trio,L07,Low Performer,Low Performer
+M109,Tiramisu,L07,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L07,Low Performer,Low Performer
+M111,Creme Brulee,L07,Low Performer,Low Performer
+M112,Apple Pie,L07,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L07,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L07,Low Performer,Low Performer
+M115,Panna Cotta,L07,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L07,Low Performer,Low Performer
+M117,Ice Cream Sundae,L07,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L07,Volume Driver,Volume Driver
+M119,Carrot Cake,L07,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L07,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L07,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L07,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L07,Low Performer,Low Performer
+M124,Iced Latte,L07,Volume Driver,Volume Driver
+M125,Masala Chai,L07,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L07,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L07,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L07,Low Performer,Low Performer
+M129,Strawberry Milkshake,L07,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L07,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L07,Low Performer,Low Performer
+M132,Virgin Mojito,L07,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L07,Low Performer,Low Performer
+M134,Berry Smoothie,L07,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L07,Hidden Opportunity,Profit Driver
+M136,French Fries,L07,Low Performer,Low Performer
+M137,Mashed Potatoes,L07,Low Performer,Low Performer
+M138,Steamed Vegetables,L07,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L07,Low Performer,Low Performer
+M140,Side Salad,L07,Volume Driver,Volume Driver
+M141,Garlic Naan,L07,Profit Driver,Profit Driver
+M142,Buttered Corn,L07,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L07,Low Performer,Low Performer
+M144,Sweet Potato Fries,L07,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L07,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L07,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L07,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L07,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L07,Low Performer,Low Performer
+M150,Pickle Plate,L07,Low Performer,Low Performer
+M001,Truffle Fries,L08,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L08,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L08,Low Performer,Low Performer
+M004,Calamari Rings,L08,Low Performer,Low Performer
+M005,Chicken Wings,L08,Low Performer,Low Performer
+M006,Spring Rolls,L08,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L08,Low Performer,Low Performer
+M008,Bruschetta,L08,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L08,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L08,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L08,Low Performer,Low Performer
+M012,Onion Rings,L08,Low Performer,Low Performer
+M013,Prawn Tempura,L08,Low Performer,Low Performer
+M014,Caesar Salad,L08,Low Performer,Low Performer
+M015,Greek Salad,L08,Low Performer,Low Performer
+M016,Signature Ribeye,L08,Low Performer,Low Performer
+M017,Butter Chicken,L08,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L08,Profit Driver,Hidden Opportunity
+M019,Mushroom Risotto,L08,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L08,Low Performer,Low Performer
+M021,Chicken Alfredo,L08,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L08,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L08,Low Performer,Low Performer
+M024,Roast Chicken,L08,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L08,Profit Driver,Profit Driver
+M026,Duck Confit,L08,Low Performer,Low Performer
+M027,Vegetable Korma,L08,Low Performer,Low Performer
+M028,Chicken Parmesan,L08,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L08,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L08,Profit Driver,Profit Driver
+M031,Smoked Brisket,L08,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L08,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L08,Low Performer,Low Performer
+M034,Lamb Chops,L08,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L08,Low Performer,Low Performer
+M036,Tandoori Chicken,L08,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L08,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L08,Low Performer,Low Performer
+M039,Char-Grilled Steak,L08,Volume Driver,Volume Driver
+M040,Smoked Sausage Plate,L08,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L08,Low Performer,Low Performer
+M042,Grilled Veg Platter,L08,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L08,Hidden Opportunity,Low Performer
+M044,Spicy Buffalo Wings,L08,Volume Driver,Volume Driver
+M045,Mixed Grill,L08,Volume Driver,Volume Driver
+M046,Margherita Pizza,L08,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L08,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L08,Low Performer,Low Performer
+M049,Four Cheese Pasta,L08,Volume Driver,Volume Driver
+M050,BBQ Chicken Pizza,L08,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L08,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L08,Low Performer,Low Performer
+M053,Penne Arrabbiata,L08,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L08,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L08,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L08,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L08,Low Performer,Low Performer
+M058,Seafood Linguine,L08,Profit Driver,Profit Driver
+M059,Mac and Cheese,L08,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L08,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L08,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L08,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L08,Low Performer,Low Performer
+M064,Double Bacon Burger,L08,Low Performer,Low Performer
+M065,Veggie Burger,L08,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L08,Low Performer,Low Performer
+M067,Club Sandwich,L08,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L08,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L08,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L08,Profit Driver,Hidden Opportunity
+M071,Falafel Wrap,L08,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L08,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L08,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L08,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L08,Low Performer,Low Performer
+M076,Chicken Biryani,L08,Low Performer,Low Performer
+M077,Mutton Biryani,L08,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L08,Low Performer,Low Performer
+M079,Egg Fried Rice,L08,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L08,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L08,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L08,Low Performer,Low Performer
+M083,Mushroom Rice,L08,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L08,Low Performer,Low Performer
+M085,Vegetable Pulao,L08,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L08,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L08,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L08,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L08,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L08,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L08,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L08,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L08,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L08,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L08,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L08,Low Performer,Low Performer
+M097,Grilled Octopus,L08,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L08,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L08,Low Performer,Low Performer
+M100,Prawn Curry,L08,Low Performer,Low Performer
+M101,Baked Cod,L08,Low Performer,Low Performer
+M102,Mussels Marinara,L08,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L08,Profit Driver,Profit Driver
+M104,Fish Tacos,L08,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L08,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L08,Low Performer,Low Performer
+M107,New York Cheesecake,L08,Low Performer,Low Performer
+M108,Gelato Trio,L08,Volume Driver,Volume Driver
+M109,Tiramisu,L08,Low Performer,Low Performer
+M110,Chocolate Brownie,L08,Low Performer,Low Performer
+M111,Creme Brulee,L08,Low Performer,Low Performer
+M112,Apple Pie,L08,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L08,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L08,Low Performer,Low Performer
+M115,Panna Cotta,L08,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L08,Low Performer,Low Performer
+M117,Ice Cream Sundae,L08,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L08,Volume Driver,Volume Driver
+M119,Carrot Cake,L08,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L08,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L08,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L08,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L08,Low Performer,Low Performer
+M124,Iced Latte,L08,Volume Driver,Volume Driver
+M125,Masala Chai,L08,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L08,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L08,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L08,Low Performer,Low Performer
+M129,Strawberry Milkshake,L08,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L08,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L08,Low Performer,Low Performer
+M132,Virgin Mojito,L08,Profit Driver,Profit Driver
+M133,Espresso,L08,Low Performer,Low Performer
+M134,Berry Smoothie,L08,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L08,Profit Driver,Profit Driver
+M136,French Fries,L08,Low Performer,Low Performer
+M137,Mashed Potatoes,L08,Low Performer,Low Performer
+M138,Steamed Vegetables,L08,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L08,Low Performer,Low Performer
+M140,Side Salad,L08,Volume Driver,Volume Driver
+M141,Garlic Naan,L08,Profit Driver,Profit Driver
+M142,Buttered Corn,L08,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L08,Low Performer,Low Performer
+M144,Sweet Potato Fries,L08,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L08,Low Performer,Low Performer
+M146,Pita Bread,L08,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L08,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L08,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L08,Low Performer,Low Performer
+M150,Pickle Plate,L08,Low Performer,Low Performer
+M001,Truffle Fries,L09,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L09,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L09,Low Performer,Low Performer
+M004,Calamari Rings,L09,Low Performer,Low Performer
+M005,Chicken Wings,L09,Low Performer,Low Performer
+M006,Spring Rolls,L09,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L09,Low Performer,Low Performer
+M008,Bruschetta,L09,Hidden Opportunity,Low Performer
+M009,Hummus Platter,L09,Low Performer,Low Performer
+M010,Stuffed Mushrooms,L09,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L09,Low Performer,Low Performer
+M012,Onion Rings,L09,Low Performer,Low Performer
+M013,Prawn Tempura,L09,Low Performer,Low Performer
+M014,Caesar Salad,L09,Low Performer,Low Performer
+M015,Greek Salad,L09,Low Performer,Low Performer
+M016,Signature Ribeye,L09,Low Performer,Low Performer
+M017,Butter Chicken,L09,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L09,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L09,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L09,Low Performer,Low Performer
+M021,Chicken Alfredo,L09,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L09,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L09,Low Performer,Low Performer
+M024,Roast Chicken,L09,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L09,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L09,Low Performer,Low Performer
+M027,Vegetable Korma,L09,Low Performer,Low Performer
+M028,Chicken Parmesan,L09,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L09,Hidden Opportunity,Profit Driver
+M030,Paneer Tikka Masala,L09,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L09,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L09,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L09,Low Performer,Low Performer
+M034,Lamb Chops,L09,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L09,Low Performer,Low Performer
+M036,Tandoori Chicken,L09,Hidden Opportunity,Profit Driver
+M037,BBQ Pulled Pork,L09,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L09,Low Performer,Low Performer
+M039,Char-Grilled Steak,L09,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L09,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L09,Low Performer,Low Performer
+M042,Grilled Veg Platter,L09,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L09,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L09,Low Performer,Low Performer
+M045,Mixed Grill,L09,Low Performer,Low Performer
+M046,Margherita Pizza,L09,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L09,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L09,Low Performer,Low Performer
+M049,Four Cheese Pasta,L09,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L09,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L09,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L09,Low Performer,Low Performer
+M053,Penne Arrabbiata,L09,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L09,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L09,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L09,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L09,Low Performer,Low Performer
+M058,Seafood Linguine,L09,Hidden Opportunity,Hidden Opportunity
+M059,Mac and Cheese,L09,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L09,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L09,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L09,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L09,Low Performer,Low Performer
+M064,Double Bacon Burger,L09,Low Performer,Low Performer
+M065,Veggie Burger,L09,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L09,Low Performer,Low Performer
+M067,Club Sandwich,L09,Hidden Opportunity,Hidden Opportunity
+M068,Grilled Chicken Wrap,L09,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L09,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L09,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L09,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L09,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L09,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L09,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L09,Low Performer,Low Performer
+M076,Chicken Biryani,L09,Low Performer,Low Performer
+M077,Mutton Biryani,L09,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L09,Low Performer,Low Performer
+M079,Egg Fried Rice,L09,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L09,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L09,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L09,Low Performer,Low Performer
+M083,Mushroom Rice,L09,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L09,Low Performer,Low Performer
+M085,Vegetable Pulao,L09,Low Performer,Low Performer
+M086,Schezwan Fried Rice,L09,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L09,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L09,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L09,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L09,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L09,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L09,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L09,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L09,Low Performer,Low Performer
+M095,Lobster Thermidor,L09,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L09,Low Performer,Low Performer
+M097,Grilled Octopus,L09,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L09,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L09,Low Performer,Low Performer
+M100,Prawn Curry,L09,Low Performer,Low Performer
+M101,Baked Cod,L09,Low Performer,Low Performer
+M102,Mussels Marinara,L09,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L09,Profit Driver,Profit Driver
+M104,Fish Tacos,L09,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L09,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L09,Low Performer,Low Performer
+M107,New York Cheesecake,L09,Low Performer,Low Performer
+M108,Gelato Trio,L09,Low Performer,Low Performer
+M109,Tiramisu,L09,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L09,Low Performer,Low Performer
+M111,Creme Brulee,L09,Low Performer,Low Performer
+M112,Apple Pie,L09,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L09,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L09,Low Performer,Low Performer
+M115,Panna Cotta,L09,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L09,Low Performer,Low Performer
+M117,Ice Cream Sundae,L09,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L09,Low Performer,Low Performer
+M119,Carrot Cake,L09,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L09,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L09,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L09,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L09,Low Performer,Low Performer
+M124,Iced Latte,L09,Volume Driver,Volume Driver
+M125,Masala Chai,L09,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L09,Profit Driver,Profit Driver
+M127,Sparkling Water,L09,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L09,Low Performer,Low Performer
+M129,Strawberry Milkshake,L09,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L09,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L09,Low Performer,Low Performer
+M132,Virgin Mojito,L09,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L09,Low Performer,Low Performer
+M134,Berry Smoothie,L09,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L09,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L09,Low Performer,Low Performer
+M137,Mashed Potatoes,L09,Low Performer,Low Performer
+M138,Steamed Vegetables,L09,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L09,Low Performer,Low Performer
+M140,Side Salad,L09,Low Performer,Low Performer
+M141,Garlic Naan,L09,Hidden Opportunity,Hidden Opportunity
+M142,Buttered Corn,L09,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L09,Low Performer,Low Performer
+M144,Sweet Potato Fries,L09,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L09,Hidden Opportunity,Low Performer
+M146,Pita Bread,L09,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L09,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L09,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L09,Low Performer,Low Performer
+M150,Pickle Plate,L09,Low Performer,Low Performer
+M001,Truffle Fries,L10,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L10,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L10,Low Performer,Low Performer
+M004,Calamari Rings,L10,Low Performer,Low Performer
+M005,Chicken Wings,L10,Low Performer,Low Performer
+M006,Spring Rolls,L10,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L10,Low Performer,Low Performer
+M008,Bruschetta,L10,Low Performer,Low Performer
+M009,Hummus Platter,L10,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L10,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L10,Low Performer,Low Performer
+M012,Onion Rings,L10,Low Performer,Low Performer
+M013,Prawn Tempura,L10,Low Performer,Low Performer
+M014,Caesar Salad,L10,Low Performer,Low Performer
+M015,Greek Salad,L10,Low Performer,Low Performer
+M016,Signature Ribeye,L10,Low Performer,Low Performer
+M017,Butter Chicken,L10,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L10,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L10,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L10,Low Performer,Low Performer
+M021,Chicken Alfredo,L10,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L10,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L10,Low Performer,Low Performer
+M024,Roast Chicken,L10,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L10,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L10,Low Performer,Low Performer
+M027,Vegetable Korma,L10,Low Performer,Low Performer
+M028,Chicken Parmesan,L10,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L10,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L10,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L10,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L10,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L10,Low Performer,Low Performer
+M034,Lamb Chops,L10,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L10,Low Performer,Low Performer
+M036,Tandoori Chicken,L10,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L10,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L10,Low Performer,Low Performer
+M039,Char-Grilled Steak,L10,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L10,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L10,Low Performer,Low Performer
+M042,Grilled Veg Platter,L10,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L10,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L10,Low Performer,Low Performer
+M045,Mixed Grill,L10,Low Performer,Low Performer
+M046,Margherita Pizza,L10,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L10,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L10,Low Performer,Low Performer
+M049,Four Cheese Pasta,L10,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L10,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L10,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L10,Low Performer,Low Performer
+M053,Penne Arrabbiata,L10,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L10,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L10,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L10,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L10,Low Performer,Low Performer
+M058,Seafood Linguine,L10,Profit Driver,Profit Driver
+M059,Mac and Cheese,L10,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L10,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L10,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L10,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L10,Low Performer,Low Performer
+M064,Double Bacon Burger,L10,Low Performer,Low Performer
+M065,Veggie Burger,L10,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L10,Low Performer,Low Performer
+M067,Club Sandwich,L10,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L10,Low Performer,Hidden Opportunity
+M069,Fish Burger,L10,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L10,Profit Driver,Profit Driver
+M071,Falafel Wrap,L10,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L10,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L10,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L10,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L10,Low Performer,Low Performer
+M076,Chicken Biryani,L10,Low Performer,Low Performer
+M077,Mutton Biryani,L10,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L10,Low Performer,Low Performer
+M079,Egg Fried Rice,L10,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L10,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L10,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L10,Low Performer,Low Performer
+M083,Mushroom Rice,L10,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L10,Low Performer,Low Performer
+M085,Vegetable Pulao,L10,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L10,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L10,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L10,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L10,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L10,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L10,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L10,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L10,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L10,Low Performer,Low Performer
+M095,Lobster Thermidor,L10,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L10,Low Performer,Low Performer
+M097,Grilled Octopus,L10,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L10,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L10,Low Performer,Low Performer
+M100,Prawn Curry,L10,Low Performer,Low Performer
+M101,Baked Cod,L10,Low Performer,Low Performer
+M102,Mussels Marinara,L10,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L10,Profit Driver,Profit Driver
+M104,Fish Tacos,L10,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L10,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L10,Low Performer,Low Performer
+M107,New York Cheesecake,L10,Low Performer,Low Performer
+M108,Gelato Trio,L10,Low Performer,Low Performer
+M109,Tiramisu,L10,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L10,Low Performer,Low Performer
+M111,Creme Brulee,L10,Low Performer,Low Performer
+M112,Apple Pie,L10,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L10,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L10,Low Performer,Low Performer
+M115,Panna Cotta,L10,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L10,Low Performer,Low Performer
+M117,Ice Cream Sundae,L10,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L10,Volume Driver,Volume Driver
+M119,Carrot Cake,L10,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L10,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L10,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L10,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L10,Low Performer,Low Performer
+M124,Iced Latte,L10,Volume Driver,Volume Driver
+M125,Masala Chai,L10,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L10,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L10,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L10,Low Performer,Low Performer
+M129,Strawberry Milkshake,L10,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L10,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L10,Low Performer,Low Performer
+M132,Virgin Mojito,L10,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L10,Low Performer,Low Performer
+M134,Berry Smoothie,L10,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L10,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L10,Low Performer,Low Performer
+M137,Mashed Potatoes,L10,Low Performer,Low Performer
+M138,Steamed Vegetables,L10,Low Performer,Low Performer
+M139,Coleslaw,L10,Low Performer,Low Performer
+M140,Side Salad,L10,Volume Driver,Volume Driver
+M141,Garlic Naan,L10,Profit Driver,Profit Driver
+M142,Buttered Corn,L10,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L10,Low Performer,Low Performer
+M144,Sweet Potato Fries,L10,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L10,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L10,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L10,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L10,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L10,Low Performer,Low Performer
+M150,Pickle Plate,L10,Low Performer,Low Performer
+M001,Truffle Fries,L11,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L11,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L11,Low Performer,Low Performer
+M004,Calamari Rings,L11,Low Performer,Low Performer
+M005,Chicken Wings,L11,Low Performer,Low Performer
+M006,Spring Rolls,L11,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L11,Low Performer,Low Performer
+M008,Bruschetta,L11,Low Performer,Low Performer
+M009,Hummus Platter,L11,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L11,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L11,Low Performer,Low Performer
+M012,Onion Rings,L11,Low Performer,Low Performer
+M013,Prawn Tempura,L11,Low Performer,Low Performer
+M014,Caesar Salad,L11,Low Performer,Low Performer
+M015,Greek Salad,L11,Low Performer,Low Performer
+M016,Signature Ribeye,L11,Low Performer,Low Performer
+M017,Butter Chicken,L11,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L11,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L11,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L11,Low Performer,Low Performer
+M021,Chicken Alfredo,L11,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L11,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L11,Low Performer,Low Performer
+M024,Roast Chicken,L11,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L11,Profit Driver,Profit Driver
+M026,Duck Confit,L11,Volume Driver,Volume Driver
+M027,Vegetable Korma,L11,Low Performer,Low Performer
+M028,Chicken Parmesan,L11,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L11,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L11,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L11,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L11,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L11,Low Performer,Low Performer
+M034,Lamb Chops,L11,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L11,Low Performer,Low Performer
+M036,Tandoori Chicken,L11,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L11,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L11,Low Performer,Low Performer
+M039,Char-Grilled Steak,L11,Volume Driver,Low Performer
+M040,Smoked Sausage Plate,L11,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L11,Low Performer,Low Performer
+M042,Grilled Veg Platter,L11,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L11,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L11,Volume Driver,Volume Driver
+M045,Mixed Grill,L11,Low Performer,Low Performer
+M046,Margherita Pizza,L11,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L11,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L11,Low Performer,Low Performer
+M049,Four Cheese Pasta,L11,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L11,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L11,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L11,Low Performer,Low Performer
+M053,Penne Arrabbiata,L11,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L11,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L11,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L11,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L11,Low Performer,Low Performer
+M058,Seafood Linguine,L11,Profit Driver,Profit Driver
+M059,Mac and Cheese,L11,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L11,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L11,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L11,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L11,Low Performer,Low Performer
+M064,Double Bacon Burger,L11,Low Performer,Low Performer
+M065,Veggie Burger,L11,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L11,Low Performer,Low Performer
+M067,Club Sandwich,L11,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L11,Low Performer,Low Performer
+M069,Fish Burger,L11,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L11,Profit Driver,Profit Driver
+M071,Falafel Wrap,L11,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L11,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L11,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L11,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L11,Low Performer,Low Performer
+M076,Chicken Biryani,L11,Low Performer,Low Performer
+M077,Mutton Biryani,L11,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L11,Low Performer,Low Performer
+M079,Egg Fried Rice,L11,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L11,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L11,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L11,Low Performer,Low Performer
+M083,Mushroom Rice,L11,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L11,Low Performer,Low Performer
+M085,Vegetable Pulao,L11,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L11,Profit Driver,Profit Driver
+M087,Kabuli Pulao,L11,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L11,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L11,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L11,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L11,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L11,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L11,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L11,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L11,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L11,Low Performer,Low Performer
+M097,Grilled Octopus,L11,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L11,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L11,Low Performer,Low Performer
+M100,Prawn Curry,L11,Low Performer,Low Performer
+M101,Baked Cod,L11,Low Performer,Low Performer
+M102,Mussels Marinara,L11,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L11,Profit Driver,Profit Driver
+M104,Fish Tacos,L11,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L11,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L11,Low Performer,Low Performer
+M107,New York Cheesecake,L11,Low Performer,Low Performer
+M108,Gelato Trio,L11,Low Performer,Low Performer
+M109,Tiramisu,L11,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L11,Low Performer,Low Performer
+M111,Creme Brulee,L11,Low Performer,Low Performer
+M112,Apple Pie,L11,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L11,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L11,Low Performer,Low Performer
+M115,Panna Cotta,L11,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L11,Low Performer,Low Performer
+M117,Ice Cream Sundae,L11,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L11,Volume Driver,Volume Driver
+M119,Carrot Cake,L11,Hidden Opportunity,Low Performer
+M120,Red Velvet Slice,L11,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L11,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L11,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L11,Low Performer,Low Performer
+M124,Iced Latte,L11,Volume Driver,Volume Driver
+M125,Masala Chai,L11,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L11,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L11,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L11,Low Performer,Low Performer
+M129,Strawberry Milkshake,L11,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L11,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L11,Low Performer,Low Performer
+M132,Virgin Mojito,L11,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L11,Low Performer,Low Performer
+M134,Berry Smoothie,L11,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L11,Profit Driver,Profit Driver
+M136,French Fries,L11,Low Performer,Low Performer
+M137,Mashed Potatoes,L11,Low Performer,Low Performer
+M138,Steamed Vegetables,L11,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L11,Low Performer,Low Performer
+M140,Side Salad,L11,Volume Driver,Volume Driver
+M141,Garlic Naan,L11,Profit Driver,Profit Driver
+M142,Buttered Corn,L11,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L11,Low Performer,Low Performer
+M144,Sweet Potato Fries,L11,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L11,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L11,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L11,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L11,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L11,Low Performer,Low Performer
+M150,Pickle Plate,L11,Low Performer,Low Performer
+M001,Truffle Fries,L12,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L12,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L12,Low Performer,Low Performer
+M004,Calamari Rings,L12,Low Performer,Low Performer
+M005,Chicken Wings,L12,Low Performer,Low Performer
+M006,Spring Rolls,L12,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L12,Low Performer,Low Performer
+M008,Bruschetta,L12,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L12,Low Performer,Low Performer
+M010,Stuffed Mushrooms,L12,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L12,Low Performer,Low Performer
+M012,Onion Rings,L12,Low Performer,Low Performer
+M013,Prawn Tempura,L12,Low Performer,Low Performer
+M014,Caesar Salad,L12,Low Performer,Low Performer
+M015,Greek Salad,L12,Low Performer,Low Performer
+M016,Signature Ribeye,L12,Low Performer,Low Performer
+M017,Butter Chicken,L12,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L12,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L12,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L12,Low Performer,Low Performer
+M021,Chicken Alfredo,L12,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L12,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L12,Low Performer,Low Performer
+M024,Roast Chicken,L12,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L12,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L12,Low Performer,Low Performer
+M027,Vegetable Korma,L12,Low Performer,Low Performer
+M028,Chicken Parmesan,L12,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L12,Hidden Opportunity,Hidden Opportunity
+M030,Paneer Tikka Masala,L12,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L12,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L12,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L12,Low Performer,Low Performer
+M034,Lamb Chops,L12,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L12,Low Performer,Low Performer
+M036,Tandoori Chicken,L12,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L12,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L12,Low Performer,Low Performer
+M039,Char-Grilled Steak,L12,Low Performer,Volume Driver
+M040,Smoked Sausage Plate,L12,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L12,Low Performer,Low Performer
+M042,Grilled Veg Platter,L12,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L12,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L12,Low Performer,Low Performer
+M045,Mixed Grill,L12,Low Performer,Low Performer
+M046,Margherita Pizza,L12,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L12,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L12,Low Performer,Low Performer
+M049,Four Cheese Pasta,L12,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L12,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L12,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L12,Low Performer,Low Performer
+M053,Penne Arrabbiata,L12,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L12,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L12,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L12,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L12,Low Performer,Low Performer
+M058,Seafood Linguine,L12,Hidden Opportunity,Hidden Opportunity
+M059,Mac and Cheese,L12,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L12,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L12,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L12,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L12,Low Performer,Low Performer
+M064,Double Bacon Burger,L12,Low Performer,Low Performer
+M065,Veggie Burger,L12,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L12,Low Performer,Low Performer
+M067,Club Sandwich,L12,Hidden Opportunity,Hidden Opportunity
+M068,Grilled Chicken Wrap,L12,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L12,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L12,Profit Driver,Profit Driver
+M071,Falafel Wrap,L12,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L12,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L12,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L12,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L12,Low Performer,Low Performer
+M076,Chicken Biryani,L12,Low Performer,Low Performer
+M077,Mutton Biryani,L12,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L12,Low Performer,Low Performer
+M079,Egg Fried Rice,L12,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L12,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L12,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L12,Low Performer,Low Performer
+M083,Mushroom Rice,L12,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L12,Low Performer,Low Performer
+M085,Vegetable Pulao,L12,Low Performer,Low Performer
+M086,Schezwan Fried Rice,L12,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L12,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L12,Profit Driver,Profit Driver
+M089,Hyderabadi Biryani,L12,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L12,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L12,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L12,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L12,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L12,Low Performer,Low Performer
+M095,Lobster Thermidor,L12,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L12,Low Performer,Low Performer
+M097,Grilled Octopus,L12,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L12,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L12,Low Performer,Low Performer
+M100,Prawn Curry,L12,Low Performer,Low Performer
+M101,Baked Cod,L12,Low Performer,Low Performer
+M102,Mussels Marinara,L12,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L12,Hidden Opportunity,Profit Driver
+M104,Fish Tacos,L12,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L12,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L12,Low Performer,Low Performer
+M107,New York Cheesecake,L12,Low Performer,Low Performer
+M108,Gelato Trio,L12,Low Performer,Volume Driver
+M109,Tiramisu,L12,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L12,Low Performer,Low Performer
+M111,Creme Brulee,L12,Low Performer,Low Performer
+M112,Apple Pie,L12,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L12,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L12,Low Performer,Low Performer
+M115,Panna Cotta,L12,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L12,Low Performer,Low Performer
+M117,Ice Cream Sundae,L12,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L12,Low Performer,Low Performer
+M119,Carrot Cake,L12,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L12,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L12,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L12,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L12,Low Performer,Low Performer
+M124,Iced Latte,L12,Low Performer,Low Performer
+M125,Masala Chai,L12,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L12,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L12,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L12,Low Performer,Low Performer
+M129,Strawberry Milkshake,L12,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L12,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L12,Low Performer,Low Performer
+M132,Virgin Mojito,L12,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L12,Low Performer,Low Performer
+M134,Berry Smoothie,L12,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L12,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L12,Low Performer,Low Performer
+M137,Mashed Potatoes,L12,Low Performer,Low Performer
+M138,Steamed Vegetables,L12,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L12,Low Performer,Low Performer
+M140,Side Salad,L12,Volume Driver,Volume Driver
+M141,Garlic Naan,L12,Hidden Opportunity,Hidden Opportunity
+M142,Buttered Corn,L12,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L12,Low Performer,Low Performer
+M144,Sweet Potato Fries,L12,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L12,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L12,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L12,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L12,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L12,Low Performer,Low Performer
+M150,Pickle Plate,L12,Low Performer,Low Performer
+M001,Truffle Fries,L13,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L13,Hidden Opportunity,Profit Driver
+M003,Soup of the Day,L13,Low Performer,Low Performer
+M004,Calamari Rings,L13,Low Performer,Low Performer
+M005,Chicken Wings,L13,Low Performer,Low Performer
+M006,Spring Rolls,L13,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L13,Low Performer,Low Performer
+M008,Bruschetta,L13,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L13,Low Performer,Low Performer
+M010,Stuffed Mushrooms,L13,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L13,Low Performer,Low Performer
+M012,Onion Rings,L13,Low Performer,Low Performer
+M013,Prawn Tempura,L13,Low Performer,Low Performer
+M014,Caesar Salad,L13,Low Performer,Low Performer
+M015,Greek Salad,L13,Low Performer,Low Performer
+M016,Signature Ribeye,L13,Low Performer,Low Performer
+M017,Butter Chicken,L13,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L13,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L13,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L13,Volume Driver,Low Performer
+M021,Chicken Alfredo,L13,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L13,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L13,Low Performer,Low Performer
+M024,Roast Chicken,L13,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L13,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L13,Low Performer,Low Performer
+M027,Vegetable Korma,L13,Volume Driver,Volume Driver
+M028,Chicken Parmesan,L13,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L13,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L13,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L13,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L13,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L13,Low Performer,Low Performer
+M034,Lamb Chops,L13,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L13,Low Performer,Low Performer
+M036,Tandoori Chicken,L13,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L13,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L13,Low Performer,Low Performer
+M039,Char-Grilled Steak,L13,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L13,Volume Driver,Volume Driver
+M041,Chicken Tikka Skewers,L13,Low Performer,Low Performer
+M042,Grilled Veg Platter,L13,Profit Driver,Profit Driver
+M043,Beef Short Ribs,L13,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L13,Low Performer,Low Performer
+M045,Mixed Grill,L13,Low Performer,Low Performer
+M046,Margherita Pizza,L13,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L13,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L13,Low Performer,Low Performer
+M049,Four Cheese Pasta,L13,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L13,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L13,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L13,Low Performer,Low Performer
+M053,Penne Arrabbiata,L13,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L13,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L13,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L13,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L13,Low Performer,Low Performer
+M058,Seafood Linguine,L13,Profit Driver,Hidden Opportunity
+M059,Mac and Cheese,L13,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L13,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L13,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L13,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L13,Low Performer,Low Performer
+M064,Double Bacon Burger,L13,Low Performer,Low Performer
+M065,Veggie Burger,L13,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L13,Low Performer,Low Performer
+M067,Club Sandwich,L13,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L13,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L13,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L13,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L13,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L13,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L13,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L13,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L13,Low Performer,Low Performer
+M076,Chicken Biryani,L13,Low Performer,Low Performer
+M077,Mutton Biryani,L13,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L13,Low Performer,Low Performer
+M079,Egg Fried Rice,L13,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L13,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L13,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L13,Low Performer,Low Performer
+M083,Mushroom Rice,L13,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L13,Low Performer,Low Performer
+M085,Vegetable Pulao,L13,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L13,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L13,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L13,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L13,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L13,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L13,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L13,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L13,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L13,Low Performer,Low Performer
+M095,Lobster Thermidor,L13,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L13,Low Performer,Low Performer
+M097,Grilled Octopus,L13,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L13,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L13,Low Performer,Low Performer
+M100,Prawn Curry,L13,Low Performer,Low Performer
+M101,Baked Cod,L13,Low Performer,Low Performer
+M102,Mussels Marinara,L13,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L13,Profit Driver,Profit Driver
+M104,Fish Tacos,L13,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L13,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L13,Low Performer,Low Performer
+M107,New York Cheesecake,L13,Low Performer,Low Performer
+M108,Gelato Trio,L13,Low Performer,Low Performer
+M109,Tiramisu,L13,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L13,Low Performer,Low Performer
+M111,Creme Brulee,L13,Low Performer,Low Performer
+M112,Apple Pie,L13,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L13,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L13,Low Performer,Low Performer
+M115,Panna Cotta,L13,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L13,Low Performer,Low Performer
+M117,Ice Cream Sundae,L13,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L13,Volume Driver,Volume Driver
+M119,Carrot Cake,L13,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L13,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L13,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L13,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L13,Low Performer,Low Performer
+M124,Iced Latte,L13,Volume Driver,Volume Driver
+M125,Masala Chai,L13,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L13,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L13,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L13,Low Performer,Low Performer
+M129,Strawberry Milkshake,L13,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L13,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L13,Low Performer,Low Performer
+M132,Virgin Mojito,L13,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L13,Low Performer,Low Performer
+M134,Berry Smoothie,L13,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L13,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L13,Low Performer,Low Performer
+M137,Mashed Potatoes,L13,Low Performer,Low Performer
+M138,Steamed Vegetables,L13,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L13,Low Performer,Low Performer
+M140,Side Salad,L13,Volume Driver,Volume Driver
+M141,Garlic Naan,L13,Profit Driver,Profit Driver
+M142,Buttered Corn,L13,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L13,Low Performer,Low Performer
+M144,Sweet Potato Fries,L13,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L13,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L13,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L13,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L13,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L13,Low Performer,Low Performer
+M150,Pickle Plate,L13,Low Performer,Low Performer
+M001,Truffle Fries,L14,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L14,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L14,Low Performer,Low Performer
+M004,Calamari Rings,L14,Low Performer,Low Performer
+M005,Chicken Wings,L14,Low Performer,Low Performer
+M006,Spring Rolls,L14,Low Performer,Low Performer
+M007,Garlic Bread,L14,Low Performer,Low Performer
+M008,Bruschetta,L14,Low Performer,Low Performer
+M009,Hummus Platter,L14,Low Performer,Low Performer
+M010,Stuffed Mushrooms,L14,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L14,Low Performer,Low Performer
+M012,Onion Rings,L14,Low Performer,Low Performer
+M013,Prawn Tempura,L14,Low Performer,Low Performer
+M014,Caesar Salad,L14,Low Performer,Low Performer
+M015,Greek Salad,L14,Low Performer,Low Performer
+M016,Signature Ribeye,L14,Low Performer,Low Performer
+M017,Butter Chicken,L14,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L14,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L14,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L14,Low Performer,Low Performer
+M021,Chicken Alfredo,L14,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L14,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L14,Low Performer,Low Performer
+M024,Roast Chicken,L14,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L14,Hidden Opportunity,Low Performer
+M026,Duck Confit,L14,Low Performer,Low Performer
+M027,Vegetable Korma,L14,Low Performer,Low Performer
+M028,Chicken Parmesan,L14,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L14,Hidden Opportunity,Hidden Opportunity
+M030,Paneer Tikka Masala,L14,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L14,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L14,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L14,Low Performer,Low Performer
+M034,Lamb Chops,L14,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L14,Low Performer,Low Performer
+M036,Tandoori Chicken,L14,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L14,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L14,Low Performer,Low Performer
+M039,Char-Grilled Steak,L14,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L14,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L14,Low Performer,Low Performer
+M042,Grilled Veg Platter,L14,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L14,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L14,Low Performer,Low Performer
+M045,Mixed Grill,L14,Low Performer,Low Performer
+M046,Margherita Pizza,L14,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L14,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L14,Low Performer,Low Performer
+M049,Four Cheese Pasta,L14,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L14,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L14,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L14,Low Performer,Low Performer
+M053,Penne Arrabbiata,L14,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L14,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L14,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L14,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L14,Low Performer,Low Performer
+M058,Seafood Linguine,L14,Hidden Opportunity,Hidden Opportunity
+M059,Mac and Cheese,L14,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L14,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L14,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L14,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L14,Low Performer,Low Performer
+M064,Double Bacon Burger,L14,Low Performer,Low Performer
+M065,Veggie Burger,L14,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L14,Low Performer,Low Performer
+M067,Club Sandwich,L14,Hidden Opportunity,Hidden Opportunity
+M068,Grilled Chicken Wrap,L14,Low Performer,Low Performer
+M069,Fish Burger,L14,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L14,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L14,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L14,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L14,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L14,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L14,Low Performer,Low Performer
+M076,Chicken Biryani,L14,Low Performer,Low Performer
+M077,Mutton Biryani,L14,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L14,Low Performer,Low Performer
+M079,Egg Fried Rice,L14,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L14,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L14,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L14,Low Performer,Low Performer
+M083,Mushroom Rice,L14,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L14,Low Performer,Low Performer
+M085,Vegetable Pulao,L14,Low Performer,Low Performer
+M086,Schezwan Fried Rice,L14,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L14,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L14,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L14,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L14,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L14,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L14,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L14,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L14,Low Performer,Low Performer
+M095,Lobster Thermidor,L14,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L14,Volume Driver,Volume Driver
+M097,Grilled Octopus,L14,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L14,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L14,Low Performer,Low Performer
+M100,Prawn Curry,L14,Low Performer,Low Performer
+M101,Baked Cod,L14,Low Performer,Low Performer
+M102,Mussels Marinara,L14,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L14,Hidden Opportunity,Profit Driver
+M104,Fish Tacos,L14,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L14,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L14,Low Performer,Low Performer
+M107,New York Cheesecake,L14,Low Performer,Low Performer
+M108,Gelato Trio,L14,Low Performer,Low Performer
+M109,Tiramisu,L14,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L14,Low Performer,Low Performer
+M111,Creme Brulee,L14,Low Performer,Low Performer
+M112,Apple Pie,L14,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L14,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L14,Low Performer,Low Performer
+M115,Panna Cotta,L14,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L14,Low Performer,Low Performer
+M117,Ice Cream Sundae,L14,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L14,Low Performer,Low Performer
+M119,Carrot Cake,L14,Hidden Opportunity,Low Performer
+M120,Red Velvet Slice,L14,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L14,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L14,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L14,Low Performer,Low Performer
+M124,Iced Latte,L14,Low Performer,Low Performer
+M125,Masala Chai,L14,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L14,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L14,Low Performer,Low Performer
+M128,Cappuccino,L14,Low Performer,Low Performer
+M129,Strawberry Milkshake,L14,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L14,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L14,Low Performer,Low Performer
+M132,Virgin Mojito,L14,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L14,Low Performer,Low Performer
+M134,Berry Smoothie,L14,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L14,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L14,Low Performer,Low Performer
+M137,Mashed Potatoes,L14,Low Performer,Low Performer
+M138,Steamed Vegetables,L14,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L14,Low Performer,Low Performer
+M140,Side Salad,L14,Low Performer,Volume Driver
+M141,Garlic Naan,L14,Profit Driver,Profit Driver
+M142,Buttered Corn,L14,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L14,Low Performer,Low Performer
+M144,Sweet Potato Fries,L14,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L14,Low Performer,Low Performer
+M146,Pita Bread,L14,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L14,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L14,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L14,Low Performer,Low Performer
+M150,Pickle Plate,L14,Low Performer,Low Performer
+M001,Truffle Fries,L15,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L15,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L15,Low Performer,Low Performer
+M004,Calamari Rings,L15,Low Performer,Low Performer
+M005,Chicken Wings,L15,Low Performer,Low Performer
+M006,Spring Rolls,L15,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L15,Low Performer,Low Performer
+M008,Bruschetta,L15,Hidden Opportunity,Low Performer
+M009,Hummus Platter,L15,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L15,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L15,Low Performer,Low Performer
+M012,Onion Rings,L15,Low Performer,Low Performer
+M013,Prawn Tempura,L15,Low Performer,Low Performer
+M014,Caesar Salad,L15,Low Performer,Low Performer
+M015,Greek Salad,L15,Low Performer,Low Performer
+M016,Signature Ribeye,L15,Low Performer,Low Performer
+M017,Butter Chicken,L15,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L15,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L15,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L15,Low Performer,Low Performer
+M021,Chicken Alfredo,L15,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L15,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L15,Low Performer,Low Performer
+M024,Roast Chicken,L15,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L15,Profit Driver,Profit Driver
+M026,Duck Confit,L15,Low Performer,Low Performer
+M027,Vegetable Korma,L15,Low Performer,Low Performer
+M028,Chicken Parmesan,L15,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L15,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L15,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L15,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L15,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L15,Low Performer,Low Performer
+M034,Lamb Chops,L15,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L15,Low Performer,Low Performer
+M036,Tandoori Chicken,L15,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L15,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L15,Low Performer,Low Performer
+M039,Char-Grilled Steak,L15,Volume Driver,Volume Driver
+M040,Smoked Sausage Plate,L15,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L15,Low Performer,Low Performer
+M042,Grilled Veg Platter,L15,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L15,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L15,Volume Driver,Volume Driver
+M045,Mixed Grill,L15,Low Performer,Low Performer
+M046,Margherita Pizza,L15,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L15,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L15,Low Performer,Low Performer
+M049,Four Cheese Pasta,L15,Volume Driver,Low Performer
+M050,BBQ Chicken Pizza,L15,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L15,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L15,Low Performer,Low Performer
+M053,Penne Arrabbiata,L15,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L15,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L15,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L15,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L15,Low Performer,Low Performer
+M058,Seafood Linguine,L15,Profit Driver,Profit Driver
+M059,Mac and Cheese,L15,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L15,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L15,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L15,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L15,Low Performer,Low Performer
+M064,Double Bacon Burger,L15,Low Performer,Low Performer
+M065,Veggie Burger,L15,Profit Driver,Profit Driver
+M066,Pulled Pork Sandwich,L15,Low Performer,Low Performer
+M067,Club Sandwich,L15,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L15,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L15,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L15,Profit Driver,Profit Driver
+M071,Falafel Wrap,L15,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L15,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L15,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L15,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L15,Low Performer,Low Performer
+M076,Chicken Biryani,L15,Volume Driver,Low Performer
+M077,Mutton Biryani,L15,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L15,Low Performer,Low Performer
+M079,Egg Fried Rice,L15,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L15,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L15,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L15,Low Performer,Low Performer
+M083,Mushroom Rice,L15,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L15,Low Performer,Low Performer
+M085,Vegetable Pulao,L15,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L15,Profit Driver,Profit Driver
+M087,Kabuli Pulao,L15,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L15,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L15,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L15,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L15,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L15,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L15,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L15,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L15,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L15,Volume Driver,Low Performer
+M097,Grilled Octopus,L15,Profit Driver,Profit Driver
+M098,Seafood Platter,L15,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L15,Low Performer,Low Performer
+M100,Prawn Curry,L15,Low Performer,Low Performer
+M101,Baked Cod,L15,Low Performer,Low Performer
+M102,Mussels Marinara,L15,Profit Driver,Profit Driver
+M103,Tuna Steak,L15,Profit Driver,Profit Driver
+M104,Fish Tacos,L15,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L15,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L15,Volume Driver,Low Performer
+M107,New York Cheesecake,L15,Low Performer,Low Performer
+M108,Gelato Trio,L15,Low Performer,Low Performer
+M109,Tiramisu,L15,Low Performer,Low Performer
+M110,Chocolate Brownie,L15,Low Performer,Low Performer
+M111,Creme Brulee,L15,Low Performer,Low Performer
+M112,Apple Pie,L15,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L15,Low Performer,Low Performer
+M114,Banoffee Pie,L15,Volume Driver,Volume Driver
+M115,Panna Cotta,L15,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L15,Low Performer,Low Performer
+M117,Ice Cream Sundae,L15,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L15,Volume Driver,Volume Driver
+M119,Carrot Cake,L15,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L15,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L15,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L15,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L15,Low Performer,Low Performer
+M124,Iced Latte,L15,Volume Driver,Volume Driver
+M125,Masala Chai,L15,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L15,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L15,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L15,Low Performer,Low Performer
+M129,Strawberry Milkshake,L15,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L15,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L15,Low Performer,Low Performer
+M132,Virgin Mojito,L15,Profit Driver,Profit Driver
+M133,Espresso,L15,Low Performer,Low Performer
+M134,Berry Smoothie,L15,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L15,Profit Driver,Profit Driver
+M136,French Fries,L15,Low Performer,Low Performer
+M137,Mashed Potatoes,L15,Low Performer,Low Performer
+M138,Steamed Vegetables,L15,Hidden Opportunity,Low Performer
+M139,Coleslaw,L15,Low Performer,Low Performer
+M140,Side Salad,L15,Volume Driver,Volume Driver
+M141,Garlic Naan,L15,Profit Driver,Profit Driver
+M142,Buttered Corn,L15,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L15,Low Performer,Low Performer
+M144,Sweet Potato Fries,L15,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L15,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L15,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L15,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L15,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L15,Low Performer,Low Performer
+M150,Pickle Plate,L15,Low Performer,Low Performer
+M001,Truffle Fries,L16,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L16,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L16,Low Performer,Low Performer
+M004,Calamari Rings,L16,Low Performer,Low Performer
+M005,Chicken Wings,L16,Low Performer,Low Performer
+M006,Spring Rolls,L16,Low Performer,Low Performer
+M007,Garlic Bread,L16,Low Performer,Low Performer
+M008,Bruschetta,L16,Low Performer,Low Performer
+M009,Hummus Platter,L16,Low Performer,Volume Driver
+M010,Stuffed Mushrooms,L16,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L16,Low Performer,Low Performer
+M012,Onion Rings,L16,Low Performer,Low Performer
+M013,Prawn Tempura,L16,Low Performer,Low Performer
+M014,Caesar Salad,L16,Low Performer,Low Performer
+M015,Greek Salad,L16,Low Performer,Low Performer
+M016,Signature Ribeye,L16,Low Performer,Low Performer
+M017,Butter Chicken,L16,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L16,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L16,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L16,Low Performer,Low Performer
+M021,Chicken Alfredo,L16,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L16,Low Performer,Low Performer
+M023,Thai Green Curry,L16,Low Performer,Low Performer
+M024,Roast Chicken,L16,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L16,Low Performer,Low Performer
+M026,Duck Confit,L16,Low Performer,Low Performer
+M027,Vegetable Korma,L16,Low Performer,Low Performer
+M028,Chicken Parmesan,L16,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L16,Hidden Opportunity,Hidden Opportunity
+M030,Paneer Tikka Masala,L16,Profit Driver,Profit Driver
+M031,Smoked Brisket,L16,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L16,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L16,Low Performer,Low Performer
+M034,Lamb Chops,L16,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L16,Low Performer,Low Performer
+M036,Tandoori Chicken,L16,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L16,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L16,Low Performer,Low Performer
+M039,Char-Grilled Steak,L16,Volume Driver,Volume Driver
+M040,Smoked Sausage Plate,L16,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L16,Low Performer,Low Performer
+M042,Grilled Veg Platter,L16,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L16,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L16,Low Performer,Low Performer
+M045,Mixed Grill,L16,Low Performer,Low Performer
+M046,Margherita Pizza,L16,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L16,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L16,Low Performer,Low Performer
+M049,Four Cheese Pasta,L16,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L16,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L16,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L16,Low Performer,Low Performer
+M053,Penne Arrabbiata,L16,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L16,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L16,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L16,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L16,Low Performer,Low Performer
+M058,Seafood Linguine,L16,Profit Driver,Profit Driver
+M059,Mac and Cheese,L16,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L16,Profit Driver,Hidden Opportunity
+M061,Classic Beef Burger,L16,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L16,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L16,Low Performer,Low Performer
+M064,Double Bacon Burger,L16,Low Performer,Low Performer
+M065,Veggie Burger,L16,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L16,Low Performer,Low Performer
+M067,Club Sandwich,L16,Hidden Opportunity,Profit Driver
+M068,Grilled Chicken Wrap,L16,Low Performer,Low Performer
+M069,Fish Burger,L16,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L16,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L16,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L16,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L16,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L16,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L16,Low Performer,Low Performer
+M076,Chicken Biryani,L16,Low Performer,Low Performer
+M077,Mutton Biryani,L16,Low Performer,Hidden Opportunity
+M078,Veg Biryani,L16,Low Performer,Low Performer
+M079,Egg Fried Rice,L16,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L16,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L16,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L16,Low Performer,Low Performer
+M083,Mushroom Rice,L16,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L16,Low Performer,Low Performer
+M085,Vegetable Pulao,L16,Low Performer,Low Performer
+M086,Schezwan Fried Rice,L16,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L16,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L16,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L16,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L16,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L16,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L16,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L16,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L16,Low Performer,Low Performer
+M095,Lobster Thermidor,L16,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L16,Low Performer,Low Performer
+M097,Grilled Octopus,L16,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L16,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L16,Low Performer,Low Performer
+M100,Prawn Curry,L16,Low Performer,Low Performer
+M101,Baked Cod,L16,Low Performer,Low Performer
+M102,Mussels Marinara,L16,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L16,Hidden Opportunity,Hidden Opportunity
+M104,Fish Tacos,L16,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L16,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L16,Low Performer,Low Performer
+M107,New York Cheesecake,L16,Low Performer,Low Performer
+M108,Gelato Trio,L16,Low Performer,Low Performer
+M109,Tiramisu,L16,Low Performer,Low Performer
+M110,Chocolate Brownie,L16,Low Performer,Low Performer
+M111,Creme Brulee,L16,Low Performer,Low Performer
+M112,Apple Pie,L16,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L16,Low Performer,Low Performer
+M114,Banoffee Pie,L16,Low Performer,Low Performer
+M115,Panna Cotta,L16,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L16,Low Performer,Low Performer
+M117,Ice Cream Sundae,L16,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L16,Low Performer,Volume Driver
+M119,Carrot Cake,L16,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L16,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L16,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L16,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L16,Low Performer,Low Performer
+M124,Iced Latte,L16,Low Performer,Low Performer
+M125,Masala Chai,L16,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L16,Low Performer,Low Performer
+M127,Sparkling Water,L16,Low Performer,Low Performer
+M128,Cappuccino,L16,Low Performer,Low Performer
+M129,Strawberry Milkshake,L16,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L16,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L16,Low Performer,Low Performer
+M132,Virgin Mojito,L16,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L16,Low Performer,Low Performer
+M134,Berry Smoothie,L16,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L16,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L16,Low Performer,Low Performer
+M137,Mashed Potatoes,L16,Low Performer,Low Performer
+M138,Steamed Vegetables,L16,Low Performer,Low Performer
+M139,Coleslaw,L16,Low Performer,Low Performer
+M140,Side Salad,L16,Low Performer,Low Performer
+M141,Garlic Naan,L16,Hidden Opportunity,Profit Driver
+M142,Buttered Corn,L16,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L16,Low Performer,Low Performer
+M144,Sweet Potato Fries,L16,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L16,Low Performer,Low Performer
+M146,Pita Bread,L16,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L16,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L16,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L16,Low Performer,Low Performer
+M150,Pickle Plate,L16,Low Performer,Low Performer
+M001,Truffle Fries,L17,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L17,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L17,Low Performer,Low Performer
+M004,Calamari Rings,L17,Low Performer,Low Performer
+M005,Chicken Wings,L17,Low Performer,Low Performer
+M006,Spring Rolls,L17,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L17,Low Performer,Low Performer
+M008,Bruschetta,L17,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L17,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L17,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L17,Low Performer,Low Performer
+M012,Onion Rings,L17,Low Performer,Low Performer
+M013,Prawn Tempura,L17,Low Performer,Low Performer
+M014,Caesar Salad,L17,Low Performer,Low Performer
+M015,Greek Salad,L17,Volume Driver,Low Performer
+M016,Signature Ribeye,L17,Low Performer,Low Performer
+M017,Butter Chicken,L17,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L17,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L17,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L17,Low Performer,Low Performer
+M021,Chicken Alfredo,L17,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L17,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L17,Low Performer,Low Performer
+M024,Roast Chicken,L17,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L17,Profit Driver,Profit Driver
+M026,Duck Confit,L17,Volume Driver,Low Performer
+M027,Vegetable Korma,L17,Volume Driver,Volume Driver
+M028,Chicken Parmesan,L17,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L17,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L17,Profit Driver,Profit Driver
+M031,Smoked Brisket,L17,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L17,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L17,Low Performer,Low Performer
+M034,Lamb Chops,L17,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L17,Low Performer,Low Performer
+M036,Tandoori Chicken,L17,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L17,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L17,Low Performer,Low Performer
+M039,Char-Grilled Steak,L17,Volume Driver,Volume Driver
+M040,Smoked Sausage Plate,L17,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L17,Low Performer,Low Performer
+M042,Grilled Veg Platter,L17,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L17,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L17,Volume Driver,Volume Driver
+M045,Mixed Grill,L17,Volume Driver,Volume Driver
+M046,Margherita Pizza,L17,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L17,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L17,Low Performer,Low Performer
+M049,Four Cheese Pasta,L17,Volume Driver,Volume Driver
+M050,BBQ Chicken Pizza,L17,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L17,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L17,Low Performer,Low Performer
+M053,Penne Arrabbiata,L17,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L17,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L17,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L17,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L17,Low Performer,Low Performer
+M058,Seafood Linguine,L17,Profit Driver,Profit Driver
+M059,Mac and Cheese,L17,Profit Driver,Hidden Opportunity
+M060,Pesto Pasta,L17,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L17,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L17,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L17,Low Performer,Low Performer
+M064,Double Bacon Burger,L17,Low Performer,Low Performer
+M065,Veggie Burger,L17,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L17,Low Performer,Low Performer
+M067,Club Sandwich,L17,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L17,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L17,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L17,Profit Driver,Profit Driver
+M071,Falafel Wrap,L17,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L17,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L17,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L17,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L17,Low Performer,Low Performer
+M076,Chicken Biryani,L17,Volume Driver,Volume Driver
+M077,Mutton Biryani,L17,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L17,Low Performer,Low Performer
+M079,Egg Fried Rice,L17,Profit Driver,Profit Driver
+M080,Chicken Fried Rice,L17,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L17,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L17,Low Performer,Low Performer
+M083,Mushroom Rice,L17,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L17,Low Performer,Low Performer
+M085,Vegetable Pulao,L17,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L17,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L17,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L17,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L17,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L17,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L17,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L17,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L17,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L17,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L17,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L17,Low Performer,Low Performer
+M097,Grilled Octopus,L17,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L17,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L17,Low Performer,Low Performer
+M100,Prawn Curry,L17,Low Performer,Low Performer
+M101,Baked Cod,L17,Low Performer,Low Performer
+M102,Mussels Marinara,L17,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L17,Profit Driver,Profit Driver
+M104,Fish Tacos,L17,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L17,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L17,Low Performer,Low Performer
+M107,New York Cheesecake,L17,Low Performer,Low Performer
+M108,Gelato Trio,L17,Low Performer,Low Performer
+M109,Tiramisu,L17,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L17,Low Performer,Low Performer
+M111,Creme Brulee,L17,Low Performer,Low Performer
+M112,Apple Pie,L17,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L17,Profit Driver,Profit Driver
+M114,Banoffee Pie,L17,Low Performer,Low Performer
+M115,Panna Cotta,L17,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L17,Low Performer,Low Performer
+M117,Ice Cream Sundae,L17,Profit Driver,Profit Driver
+M118,Baklava,L17,Volume Driver,Volume Driver
+M119,Carrot Cake,L17,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L17,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L17,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L17,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L17,Low Performer,Low Performer
+M124,Iced Latte,L17,Volume Driver,Volume Driver
+M125,Masala Chai,L17,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L17,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L17,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L17,Low Performer,Low Performer
+M129,Strawberry Milkshake,L17,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L17,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L17,Low Performer,Low Performer
+M132,Virgin Mojito,L17,Profit Driver,Profit Driver
+M133,Espresso,L17,Low Performer,Low Performer
+M134,Berry Smoothie,L17,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L17,Profit Driver,Profit Driver
+M136,French Fries,L17,Low Performer,Low Performer
+M137,Mashed Potatoes,L17,Low Performer,Low Performer
+M138,Steamed Vegetables,L17,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L17,Low Performer,Low Performer
+M140,Side Salad,L17,Volume Driver,Volume Driver
+M141,Garlic Naan,L17,Profit Driver,Profit Driver
+M142,Buttered Corn,L17,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L17,Low Performer,Low Performer
+M144,Sweet Potato Fries,L17,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L17,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L17,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L17,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L17,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L17,Low Performer,Low Performer
+M150,Pickle Plate,L17,Low Performer,Low Performer
+M001,Truffle Fries,L18,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L18,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L18,Low Performer,Low Performer
+M004,Calamari Rings,L18,Low Performer,Low Performer
+M005,Chicken Wings,L18,Low Performer,Low Performer
+M006,Spring Rolls,L18,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L18,Low Performer,Low Performer
+M008,Bruschetta,L18,Hidden Opportunity,Hidden Opportunity
+M009,Hummus Platter,L18,Low Performer,Low Performer
+M010,Stuffed Mushrooms,L18,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L18,Low Performer,Low Performer
+M012,Onion Rings,L18,Low Performer,Low Performer
+M013,Prawn Tempura,L18,Low Performer,Profit Driver
+M014,Caesar Salad,L18,Low Performer,Low Performer
+M015,Greek Salad,L18,Low Performer,Low Performer
+M016,Signature Ribeye,L18,Low Performer,Low Performer
+M017,Butter Chicken,L18,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L18,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L18,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L18,Low Performer,Low Performer
+M021,Chicken Alfredo,L18,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L18,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L18,Low Performer,Low Performer
+M024,Roast Chicken,L18,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L18,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L18,Low Performer,Low Performer
+M027,Vegetable Korma,L18,Low Performer,Low Performer
+M028,Chicken Parmesan,L18,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L18,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L18,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L18,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L18,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L18,Low Performer,Low Performer
+M034,Lamb Chops,L18,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L18,Low Performer,Low Performer
+M036,Tandoori Chicken,L18,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L18,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L18,Low Performer,Low Performer
+M039,Char-Grilled Steak,L18,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L18,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L18,Low Performer,Low Performer
+M042,Grilled Veg Platter,L18,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L18,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L18,Low Performer,Low Performer
+M045,Mixed Grill,L18,Low Performer,Low Performer
+M046,Margherita Pizza,L18,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L18,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L18,Low Performer,Low Performer
+M049,Four Cheese Pasta,L18,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L18,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L18,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L18,Low Performer,Low Performer
+M053,Penne Arrabbiata,L18,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L18,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L18,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L18,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L18,Low Performer,Low Performer
+M058,Seafood Linguine,L18,Hidden Opportunity,Hidden Opportunity
+M059,Mac and Cheese,L18,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L18,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L18,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L18,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L18,Low Performer,Low Performer
+M064,Double Bacon Burger,L18,Low Performer,Low Performer
+M065,Veggie Burger,L18,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L18,Low Performer,Low Performer
+M067,Club Sandwich,L18,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L18,Hidden Opportunity,Hidden Opportunity
+M069,Fish Burger,L18,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L18,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L18,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L18,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L18,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L18,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L18,Low Performer,Low Performer
+M076,Chicken Biryani,L18,Low Performer,Low Performer
+M077,Mutton Biryani,L18,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L18,Low Performer,Low Performer
+M079,Egg Fried Rice,L18,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L18,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L18,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L18,Low Performer,Low Performer
+M083,Mushroom Rice,L18,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L18,Low Performer,Low Performer
+M085,Vegetable Pulao,L18,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L18,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L18,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L18,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L18,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L18,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L18,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L18,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L18,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L18,Volume Driver,Volume Driver
+M095,Lobster Thermidor,L18,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L18,Low Performer,Low Performer
+M097,Grilled Octopus,L18,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L18,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L18,Low Performer,Low Performer
+M100,Prawn Curry,L18,Low Performer,Low Performer
+M101,Baked Cod,L18,Low Performer,Low Performer
+M102,Mussels Marinara,L18,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L18,Profit Driver,Profit Driver
+M104,Fish Tacos,L18,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L18,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L18,Low Performer,Low Performer
+M107,New York Cheesecake,L18,Low Performer,Low Performer
+M108,Gelato Trio,L18,Low Performer,Low Performer
+M109,Tiramisu,L18,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L18,Low Performer,Low Performer
+M111,Creme Brulee,L18,Low Performer,Low Performer
+M112,Apple Pie,L18,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L18,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L18,Low Performer,Low Performer
+M115,Panna Cotta,L18,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L18,Low Performer,Low Performer
+M117,Ice Cream Sundae,L18,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L18,Volume Driver,Volume Driver
+M119,Carrot Cake,L18,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L18,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L18,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L18,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L18,Hidden Opportunity,Hidden Opportunity
+M124,Iced Latte,L18,Low Performer,Low Performer
+M125,Masala Chai,L18,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L18,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L18,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L18,Low Performer,Low Performer
+M129,Strawberry Milkshake,L18,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L18,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L18,Hidden Opportunity,Hidden Opportunity
+M132,Virgin Mojito,L18,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L18,Low Performer,Low Performer
+M134,Berry Smoothie,L18,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L18,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L18,Low Performer,Low Performer
+M137,Mashed Potatoes,L18,Low Performer,Low Performer
+M138,Steamed Vegetables,L18,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L18,Low Performer,Low Performer
+M140,Side Salad,L18,Volume Driver,Volume Driver
+M141,Garlic Naan,L18,Profit Driver,Profit Driver
+M142,Buttered Corn,L18,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L18,Low Performer,Low Performer
+M144,Sweet Potato Fries,L18,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L18,Hidden Opportunity,Hidden Opportunity
+M146,Pita Bread,L18,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L18,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L18,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L18,Low Performer,Low Performer
+M150,Pickle Plate,L18,Low Performer,Low Performer
+M001,Truffle Fries,L19,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L19,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L19,Low Performer,Low Performer
+M004,Calamari Rings,L19,Low Performer,Low Performer
+M005,Chicken Wings,L19,Low Performer,Low Performer
+M006,Spring Rolls,L19,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L19,Low Performer,Low Performer
+M008,Bruschetta,L19,Low Performer,Low Performer
+M009,Hummus Platter,L19,Volume Driver,Volume Driver
+M010,Stuffed Mushrooms,L19,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L19,Low Performer,Low Performer
+M012,Onion Rings,L19,Low Performer,Low Performer
+M013,Prawn Tempura,L19,Low Performer,Low Performer
+M014,Caesar Salad,L19,Low Performer,Low Performer
+M015,Greek Salad,L19,Low Performer,Low Performer
+M016,Signature Ribeye,L19,Low Performer,Low Performer
+M017,Butter Chicken,L19,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L19,Profit Driver,Profit Driver
+M019,Mushroom Risotto,L19,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L19,Low Performer,Low Performer
+M021,Chicken Alfredo,L19,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L19,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L19,Low Performer,Low Performer
+M024,Roast Chicken,L19,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L19,Hidden Opportunity,Profit Driver
+M026,Duck Confit,L19,Low Performer,Low Performer
+M027,Vegetable Korma,L19,Low Performer,Low Performer
+M028,Chicken Parmesan,L19,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L19,Profit Driver,Profit Driver
+M030,Paneer Tikka Masala,L19,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L19,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L19,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L19,Low Performer,Low Performer
+M034,Lamb Chops,L19,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L19,Low Performer,Low Performer
+M036,Tandoori Chicken,L19,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L19,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L19,Low Performer,Low Performer
+M039,Char-Grilled Steak,L19,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L19,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L19,Low Performer,Low Performer
+M042,Grilled Veg Platter,L19,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L19,Hidden Opportunity,Hidden Opportunity
+M044,Spicy Buffalo Wings,L19,Low Performer,Volume Driver
+M045,Mixed Grill,L19,Low Performer,Low Performer
+M046,Margherita Pizza,L19,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L19,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L19,Low Performer,Low Performer
+M049,Four Cheese Pasta,L19,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L19,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L19,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L19,Low Performer,Low Performer
+M053,Penne Arrabbiata,L19,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L19,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L19,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L19,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L19,Low Performer,Low Performer
+M058,Seafood Linguine,L19,Profit Driver,Profit Driver
+M059,Mac and Cheese,L19,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L19,Hidden Opportunity,Hidden Opportunity
+M061,Classic Beef Burger,L19,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L19,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L19,Low Performer,Low Performer
+M064,Double Bacon Burger,L19,Low Performer,Low Performer
+M065,Veggie Burger,L19,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L19,Low Performer,Low Performer
+M067,Club Sandwich,L19,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L19,Low Performer,Low Performer
+M069,Fish Burger,L19,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L19,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L19,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L19,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L19,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L19,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L19,Low Performer,Low Performer
+M076,Chicken Biryani,L19,Low Performer,Low Performer
+M077,Mutton Biryani,L19,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L19,Low Performer,Low Performer
+M079,Egg Fried Rice,L19,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L19,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L19,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L19,Low Performer,Low Performer
+M083,Mushroom Rice,L19,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L19,Low Performer,Low Performer
+M085,Vegetable Pulao,L19,Volume Driver,Volume Driver
+M086,Schezwan Fried Rice,L19,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L19,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L19,Profit Driver,Profit Driver
+M089,Hyderabadi Biryani,L19,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L19,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L19,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L19,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L19,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L19,Low Performer,Low Performer
+M095,Lobster Thermidor,L19,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L19,Low Performer,Low Performer
+M097,Grilled Octopus,L19,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L19,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L19,Low Performer,Low Performer
+M100,Prawn Curry,L19,Low Performer,Low Performer
+M101,Baked Cod,L19,Low Performer,Low Performer
+M102,Mussels Marinara,L19,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L19,Profit Driver,Profit Driver
+M104,Fish Tacos,L19,Hidden Opportunity,Hidden Opportunity
+M105,Shrimp Scampi,L19,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L19,Low Performer,Low Performer
+M107,New York Cheesecake,L19,Low Performer,Low Performer
+M108,Gelato Trio,L19,Low Performer,Low Performer
+M109,Tiramisu,L19,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L19,Low Performer,Low Performer
+M111,Creme Brulee,L19,Low Performer,Low Performer
+M112,Apple Pie,L19,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L19,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L19,Low Performer,Low Performer
+M115,Panna Cotta,L19,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L19,Low Performer,Low Performer
+M117,Ice Cream Sundae,L19,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L19,Volume Driver,Volume Driver
+M119,Carrot Cake,L19,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L19,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L19,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L19,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L19,Low Performer,Low Performer
+M124,Iced Latte,L19,Low Performer,Volume Driver
+M125,Masala Chai,L19,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L19,Low Performer,Hidden Opportunity
+M127,Sparkling Water,L19,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L19,Low Performer,Low Performer
+M129,Strawberry Milkshake,L19,Profit Driver,Profit Driver
+M130,Green Tea,L19,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L19,Low Performer,Low Performer
+M132,Virgin Mojito,L19,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L19,Low Performer,Low Performer
+M134,Berry Smoothie,L19,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L19,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L19,Low Performer,Low Performer
+M137,Mashed Potatoes,L19,Low Performer,Low Performer
+M138,Steamed Vegetables,L19,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L19,Low Performer,Low Performer
+M140,Side Salad,L19,Volume Driver,Volume Driver
+M141,Garlic Naan,L19,Profit Driver,Profit Driver
+M142,Buttered Corn,L19,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L19,Low Performer,Low Performer
+M144,Sweet Potato Fries,L19,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L19,Low Performer,Low Performer
+M146,Pita Bread,L19,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L19,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L19,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L19,Low Performer,Low Performer
+M150,Pickle Plate,L19,Low Performer,Low Performer
+M001,Truffle Fries,L20,Hidden Opportunity,Hidden Opportunity
+M002,Loaded Nachos,L20,Hidden Opportunity,Hidden Opportunity
+M003,Soup of the Day,L20,Low Performer,Low Performer
+M004,Calamari Rings,L20,Low Performer,Low Performer
+M005,Chicken Wings,L20,Low Performer,Low Performer
+M006,Spring Rolls,L20,Hidden Opportunity,Hidden Opportunity
+M007,Garlic Bread,L20,Low Performer,Low Performer
+M008,Bruschetta,L20,Low Performer,Low Performer
+M009,Hummus Platter,L20,Low Performer,Volume Driver
+M010,Stuffed Mushrooms,L20,Hidden Opportunity,Hidden Opportunity
+M011,Cheese Sticks,L20,Low Performer,Low Performer
+M012,Onion Rings,L20,Low Performer,Low Performer
+M013,Prawn Tempura,L20,Low Performer,Low Performer
+M014,Caesar Salad,L20,Low Performer,Low Performer
+M015,Greek Salad,L20,Low Performer,Low Performer
+M016,Signature Ribeye,L20,Low Performer,Low Performer
+M017,Butter Chicken,L20,Hidden Opportunity,Hidden Opportunity
+M018,Grilled Salmon,L20,Hidden Opportunity,Hidden Opportunity
+M019,Mushroom Risotto,L20,Hidden Opportunity,Hidden Opportunity
+M020,Beef Stroganoff,L20,Low Performer,Low Performer
+M021,Chicken Alfredo,L20,Hidden Opportunity,Hidden Opportunity
+M022,Lamb Rogan Josh,L20,Hidden Opportunity,Hidden Opportunity
+M023,Thai Green Curry,L20,Low Performer,Low Performer
+M024,Roast Chicken,L20,Hidden Opportunity,Hidden Opportunity
+M025,Beef Wellington,L20,Hidden Opportunity,Hidden Opportunity
+M026,Duck Confit,L20,Volume Driver,Volume Driver
+M027,Vegetable Korma,L20,Low Performer,Low Performer
+M028,Chicken Parmesan,L20,Hidden Opportunity,Hidden Opportunity
+M029,Pan-Seared Steak,L20,Hidden Opportunity,Hidden Opportunity
+M030,Paneer Tikka Masala,L20,Hidden Opportunity,Hidden Opportunity
+M031,Smoked Brisket,L20,Hidden Opportunity,Hidden Opportunity
+M032,BBQ Ribs Full Rack,L20,Hidden Opportunity,Hidden Opportunity
+M033,Peri Peri Chicken,L20,Low Performer,Low Performer
+M034,Lamb Chops,L20,Hidden Opportunity,Hidden Opportunity
+M035,Grilled Kebab Platter,L20,Low Performer,Low Performer
+M036,Tandoori Chicken,L20,Hidden Opportunity,Hidden Opportunity
+M037,BBQ Pulled Pork,L20,Hidden Opportunity,Hidden Opportunity
+M038,Grilled Lamb Skewers,L20,Low Performer,Low Performer
+M039,Char-Grilled Steak,L20,Low Performer,Low Performer
+M040,Smoked Sausage Plate,L20,Low Performer,Low Performer
+M041,Chicken Tikka Skewers,L20,Low Performer,Low Performer
+M042,Grilled Veg Platter,L20,Hidden Opportunity,Hidden Opportunity
+M043,Beef Short Ribs,L20,Low Performer,Hidden Opportunity
+M044,Spicy Buffalo Wings,L20,Volume Driver,Volume Driver
+M045,Mixed Grill,L20,Low Performer,Low Performer
+M046,Margherita Pizza,L20,Hidden Opportunity,Hidden Opportunity
+M047,Pepperoni Pizza,L20,Hidden Opportunity,Hidden Opportunity
+M048,Truffle Carbonara,L20,Low Performer,Low Performer
+M049,Four Cheese Pasta,L20,Low Performer,Low Performer
+M050,BBQ Chicken Pizza,L20,Hidden Opportunity,Hidden Opportunity
+M051,Veggie Supreme Pizza,L20,Hidden Opportunity,Hidden Opportunity
+M052,Spaghetti Bolognese,L20,Low Performer,Low Performer
+M053,Penne Arrabbiata,L20,Hidden Opportunity,Hidden Opportunity
+M054,Lasagne al Forno,L20,Hidden Opportunity,Hidden Opportunity
+M055,Meat Feast Pizza,L20,Hidden Opportunity,Hidden Opportunity
+M056,Hawaiian Pizza,L20,Hidden Opportunity,Hidden Opportunity
+M057,Mushroom Pizza,L20,Low Performer,Low Performer
+M058,Seafood Linguine,L20,Hidden Opportunity,Hidden Opportunity
+M059,Mac and Cheese,L20,Hidden Opportunity,Hidden Opportunity
+M060,Pesto Pasta,L20,Profit Driver,Profit Driver
+M061,Classic Beef Burger,L20,Hidden Opportunity,Hidden Opportunity
+M062,Cheeseburger Deluxe,L20,Low Performer,Low Performer
+M063,Crispy Chicken Burger,L20,Low Performer,Low Performer
+M064,Double Bacon Burger,L20,Low Performer,Low Performer
+M065,Veggie Burger,L20,Hidden Opportunity,Hidden Opportunity
+M066,Pulled Pork Sandwich,L20,Low Performer,Low Performer
+M067,Club Sandwich,L20,Profit Driver,Profit Driver
+M068,Grilled Chicken Wrap,L20,Low Performer,Low Performer
+M069,Fish Burger,L20,Hidden Opportunity,Hidden Opportunity
+M070,Steak Sandwich,L20,Hidden Opportunity,Hidden Opportunity
+M071,Falafel Wrap,L20,Hidden Opportunity,Hidden Opportunity
+M072,Philly Cheesesteak,L20,Low Performer,Low Performer
+M073,BBQ Bacon Burger,L20,Hidden Opportunity,Hidden Opportunity
+M074,Spicy Zinger Burger,L20,Hidden Opportunity,Hidden Opportunity
+M075,Halloumi Burger,L20,Low Performer,Low Performer
+M076,Chicken Biryani,L20,Low Performer,Low Performer
+M077,Mutton Biryani,L20,Hidden Opportunity,Hidden Opportunity
+M078,Veg Biryani,L20,Low Performer,Low Performer
+M079,Egg Fried Rice,L20,Hidden Opportunity,Hidden Opportunity
+M080,Chicken Fried Rice,L20,Hidden Opportunity,Hidden Opportunity
+M081,Prawn Biryani,L20,Hidden Opportunity,Hidden Opportunity
+M082,Jeera Rice,L20,Low Performer,Low Performer
+M083,Mushroom Rice,L20,Hidden Opportunity,Hidden Opportunity
+M084,Beef Pulao,L20,Low Performer,Low Performer
+M085,Vegetable Pulao,L20,Low Performer,Volume Driver
+M086,Schezwan Fried Rice,L20,Hidden Opportunity,Hidden Opportunity
+M087,Kabuli Pulao,L20,Hidden Opportunity,Hidden Opportunity
+M088,Lemon Rice,L20,Hidden Opportunity,Hidden Opportunity
+M089,Hyderabadi Biryani,L20,Hidden Opportunity,Hidden Opportunity
+M090,Steamed Basmati,L20,Hidden Opportunity,Hidden Opportunity
+M091,Grilled Prawns,L20,Hidden Opportunity,Hidden Opportunity
+M092,Fish and Chips,L20,Hidden Opportunity,Hidden Opportunity
+M093,Butter Garlic Shrimp,L20,Hidden Opportunity,Hidden Opportunity
+M094,Crab Cakes,L20,Low Performer,Volume Driver
+M095,Lobster Thermidor,L20,Hidden Opportunity,Hidden Opportunity
+M096,Fried Calamari,L20,Low Performer,Low Performer
+M097,Grilled Octopus,L20,Hidden Opportunity,Hidden Opportunity
+M098,Seafood Platter,L20,Hidden Opportunity,Hidden Opportunity
+M099,Salmon Teriyaki,L20,Low Performer,Low Performer
+M100,Prawn Curry,L20,Low Performer,Low Performer
+M101,Baked Cod,L20,Low Performer,Low Performer
+M102,Mussels Marinara,L20,Hidden Opportunity,Hidden Opportunity
+M103,Tuna Steak,L20,Hidden Opportunity,Hidden Opportunity
+M104,Fish Tacos,L20,Profit Driver,Profit Driver
+M105,Shrimp Scampi,L20,Hidden Opportunity,Hidden Opportunity
+M106,Molten Lava Cake,L20,Low Performer,Low Performer
+M107,New York Cheesecake,L20,Low Performer,Low Performer
+M108,Gelato Trio,L20,Low Performer,Low Performer
+M109,Tiramisu,L20,Hidden Opportunity,Hidden Opportunity
+M110,Chocolate Brownie,L20,Low Performer,Low Performer
+M111,Creme Brulee,L20,Low Performer,Low Performer
+M112,Apple Pie,L20,Low Performer,Low Performer
+M113,Sticky Toffee Pudding,L20,Hidden Opportunity,Hidden Opportunity
+M114,Banoffee Pie,L20,Low Performer,Low Performer
+M115,Panna Cotta,L20,Hidden Opportunity,Hidden Opportunity
+M116,Fruit Tart,L20,Low Performer,Low Performer
+M117,Ice Cream Sundae,L20,Hidden Opportunity,Hidden Opportunity
+M118,Baklava,L20,Volume Driver,Low Performer
+M119,Carrot Cake,L20,Hidden Opportunity,Hidden Opportunity
+M120,Red Velvet Slice,L20,Hidden Opportunity,Hidden Opportunity
+M121,Fresh Lemonade,L20,Hidden Opportunity,Hidden Opportunity
+M122,Craft Cold Brew,L20,Hidden Opportunity,Hidden Opportunity
+M123,Mango Smoothie,L20,Low Performer,Low Performer
+M124,Iced Latte,L20,Low Performer,Low Performer
+M125,Masala Chai,L20,Hidden Opportunity,Hidden Opportunity
+M126,Fresh Orange Juice,L20,Hidden Opportunity,Hidden Opportunity
+M127,Sparkling Water,L20,Hidden Opportunity,Hidden Opportunity
+M128,Cappuccino,L20,Low Performer,Low Performer
+M129,Strawberry Milkshake,L20,Hidden Opportunity,Hidden Opportunity
+M130,Green Tea,L20,Hidden Opportunity,Hidden Opportunity
+M131,Coca-Cola,L20,Low Performer,Low Performer
+M132,Virgin Mojito,L20,Hidden Opportunity,Hidden Opportunity
+M133,Espresso,L20,Low Performer,Low Performer
+M134,Berry Smoothie,L20,Hidden Opportunity,Hidden Opportunity
+M135,Salted Caramel Frappe,L20,Hidden Opportunity,Hidden Opportunity
+M136,French Fries,L20,Low Performer,Low Performer
+M137,Mashed Potatoes,L20,Low Performer,Low Performer
+M138,Steamed Vegetables,L20,Hidden Opportunity,Hidden Opportunity
+M139,Coleslaw,L20,Low Performer,Low Performer
+M140,Side Salad,L20,Volume Driver,Volume Driver
+M141,Garlic Naan,L20,Profit Driver,Profit Driver
+M142,Buttered Corn,L20,Hidden Opportunity,Hidden Opportunity
+M143,Cheese Dip,L20,Low Performer,Low Performer
+M144,Sweet Potato Fries,L20,Hidden Opportunity,Hidden Opportunity
+M145,Rice Bowl,L20,Low Performer,Low Performer
+M146,Pita Bread,L20,Hidden Opportunity,Hidden Opportunity
+M147,Grilled Corn,L20,Hidden Opportunity,Hidden Opportunity
+M148,Extra Cheese,L20,Hidden Opportunity,Hidden Opportunity
+M149,Dinner Roll,L20,Low Performer,Low Performer
+M150,Pickle Plate,L20,Low Performer,Low Performer

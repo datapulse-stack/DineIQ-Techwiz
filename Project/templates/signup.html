@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Create account — DineIQ Analytics</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% include '_scene.html' %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="auth-brand">
+      <div class="mark">DI</div>
+      <div><h1>DineIQ<span style="color:var(--brand)"> Analytics</span></h1><a class="pulse-word" href="{{ url_for('about') }}" title="About Data Pulse">Data Pulse</a></div>
+    </div>
+    <h2>Create your account</h2>
+    <p class="lead">Sign up to explore the dashboard. New accounts start with view-only (Analyst) access.</p>
+
+    {% with msgs = get_flashed_messages(with_categories=true) %}
+      {% for cat, m in msgs %}<div class="flash {{ cat }}">{{ m }}</div>{% endfor %}
+    {% endwith %}
+
+    <form method="post" action="{{ url_for('signup') }}">
+      <div class="field"><label>Full name</label><input type="text" name="name" placeholder="Alex Morgan" required autofocus /></div>
+      <div class="field"><label>Email</label><input type="email" name="email" placeholder="you@restaurant.com" required /></div>
+      <div class="field"><label>Password</label><input type="password" name="password" placeholder="at least 6 characters" required /></div>
+      <button class="btn primary btn-full" type="submit">Create account</button>
+    </form>
+
+    <div class="auth-alt">Already have an account? <a href="{{ url_for('login') }}">Sign in</a></div>
+    <div class="hint-box">You'll get <b>Analyst</b> (read-only) access. An admin can upgrade you to <b>Manager</b> (adds export) or <b>Admin</b> (full control) from the admin panel.</div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>

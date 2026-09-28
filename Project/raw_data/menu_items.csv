@@ -1,0 +1,151 @@
+item_id,name,category_id,base_price,food_cost
+M001,Truffle Fries,C01,6.99,2.71
+M002,Loaded Nachos,C01,5.48,1.77
+M003,Soup of the Day,C01,6.69,3.2
+M004,Calamari Rings,C01,6.29,4.38
+M005,Chicken Wings,C01,6.61,3.2
+M006,Spring Rolls,C01,10.22,4.19
+M007,Garlic Bread,C01,5.97,3.96
+M008,Bruschetta,C01,6.36,2.92
+M009,Hummus Platter,C01,10.11,6.43
+M010,Stuffed Mushrooms,C01,10.26,3.12
+M011,Cheese Sticks,C01,5.4,2.53
+M012,Onion Rings,C01,7.63,3.92
+M013,Prawn Tempura,C01,6.81,3.15
+M014,Caesar Salad,C01,5.45,2.81
+M015,Greek Salad,C01,10.22,4.78
+M016,Signature Ribeye,C02,21.96,15.62
+M017,Butter Chicken,C02,24.36,7.72
+M018,Grilled Salmon,C02,14.11,4.78
+M019,Mushroom Risotto,C02,15.71,5.95
+M020,Beef Stroganoff,C02,17.03,11.56
+M021,Chicken Alfredo,C02,29.14,12.82
+M022,Lamb Rogan Josh,C02,20.1,9.39
+M023,Thai Green Curry,C02,21.16,13.43
+M024,Roast Chicken,C02,19.12,7.9
+M025,Beef Wellington,C02,20.29,11.08
+M026,Duck Confit,C02,18.88,11.74
+M027,Vegetable Korma,C02,16.5,10.02
+M028,Chicken Parmesan,C02,28.82,9.93
+M029,Pan-Seared Steak,C02,20.7,9.87
+M030,Paneer Tikka Masala,C02,28.62,10.33
+M031,Smoked Brisket,C03,27.92,9.46
+M032,BBQ Ribs Full Rack,C03,18.35,6.12
+M033,Peri Peri Chicken,C03,28.41,17.21
+M034,Lamb Chops,C03,28.55,11.49
+M035,Grilled Kebab Platter,C03,22.25,10.13
+M036,Tandoori Chicken,C03,25.36,8.91
+M037,BBQ Pulled Pork,C03,25.28,10.14
+M038,Grilled Lamb Skewers,C03,29.23,17.54
+M039,Char-Grilled Steak,C03,24.37,13.05
+M040,Smoked Sausage Plate,C03,17.55,9.07
+M041,Chicken Tikka Skewers,C03,25.73,12.37
+M042,Grilled Veg Platter,C03,23.21,8.11
+M043,Beef Short Ribs,C03,29.18,12.74
+M044,Spicy Buffalo Wings,C03,27.96,13.75
+M045,Mixed Grill,C03,17.15,7.24
+M046,Margherita Pizza,C04,14.61,4.99
+M047,Pepperoni Pizza,C04,13.91,5.06
+M048,Truffle Carbonara,C04,14.83,9.57
+M049,Four Cheese Pasta,C04,17.05,9.22
+M050,BBQ Chicken Pizza,C04,12.32,4.13
+M051,Veggie Supreme Pizza,C04,19.21,7.61
+M052,Spaghetti Bolognese,C04,12.42,6.49
+M053,Penne Arrabbiata,C04,17.6,5.35
+M054,Lasagne al Forno,C04,16.35,6.95
+M055,Meat Feast Pizza,C04,17.13,7.6
+M056,Hawaiian Pizza,C04,14.87,5.31
+M057,Mushroom Pizza,C04,15.98,8.7
+M058,Seafood Linguine,C04,16.87,8.11
+M059,Mac and Cheese,C04,15.23,5.61
+M060,Pesto Pasta,C04,17.58,5.31
+M061,Classic Beef Burger,C05,10.71,4.3
+M062,Cheeseburger Deluxe,C05,15.66,8.35
+M063,Crispy Chicken Burger,C05,14.01,8.24
+M064,Double Bacon Burger,C05,9.79,4.92
+M065,Veggie Burger,C05,15.35,6.71
+M066,Pulled Pork Sandwich,C05,11.24,5.78
+M067,Club Sandwich,C05,14.75,7.35
+M068,Grilled Chicken Wrap,C05,13.11,6.73
+M069,Fish Burger,C05,10.78,4.71
+M070,Steak Sandwich,C05,14.78,7.19
+M071,Falafel Wrap,C05,11.95,4.58
+M072,Philly Cheesesteak,C05,13.31,9.24
+M073,BBQ Bacon Burger,C05,13.65,4.82
+M074,Spicy Zinger Burger,C05,9.2,3.17
+M075,Halloumi Burger,C05,14.01,9.9
+M076,Chicken Biryani,C06,11.57,5.68
+M077,Mutton Biryani,C06,10.9,5.09
+M078,Veg Biryani,C06,11.37,8.07
+M079,Egg Fried Rice,C06,16.3,5.3
+M080,Chicken Fried Rice,C06,19.11,7.6
+M081,Prawn Biryani,C06,19.14,6.16
+M082,Jeera Rice,C06,17.88,7.99
+M083,Mushroom Rice,C06,17.48,5.68
+M084,Beef Pulao,C06,11.49,6.03
+M085,Vegetable Pulao,C06,13.47,7.99
+M086,Schezwan Fried Rice,C06,11.76,4.54
+M087,Kabuli Pulao,C06,10.28,3.13
+M088,Lemon Rice,C06,13.41,6.85
+M089,Hyderabadi Biryani,C06,13.22,5.23
+M090,Steamed Basmati,C06,15.5,6.07
+M091,Grilled Prawns,C07,16.82,6.88
+M092,Fish and Chips,C07,25.33,8.86
+M093,Butter Garlic Shrimp,C07,18.65,7.1
+M094,Crab Cakes,C07,26.07,10.8
+M095,Lobster Thermidor,C07,17.0,6.73
+M096,Fried Calamari,C07,23.32,16.36
+M097,Grilled Octopus,C07,26.75,10.99
+M098,Seafood Platter,C07,29.84,10.26
+M099,Salmon Teriyaki,C07,26.77,14.19
+M100,Prawn Curry,C07,16.59,8.97
+M101,Baked Cod,C07,26.87,12.3
+M102,Mussels Marinara,C07,23.96,7.75
+M103,Tuna Steak,C07,15.32,4.88
+M104,Fish Tacos,C07,19.55,6.56
+M105,Shrimp Scampi,C07,28.57,10.66
+M106,Molten Lava Cake,C08,9.72,5.99
+M107,New York Cheesecake,C08,7.86,5.46
+M108,Gelato Trio,C08,8.55,4.34
+M109,Tiramisu,C08,6.36,2.95
+M110,Chocolate Brownie,C08,6.97,3.49
+M111,Creme Brulee,C08,7.32,3.13
+M112,Apple Pie,C08,8.89,4.63
+M113,Sticky Toffee Pudding,C08,9.72,4.64
+M114,Banoffee Pie,C08,9.0,4.91
+M115,Panna Cotta,C08,5.21,2.09
+M116,Fruit Tart,C08,5.82,2.8
+M117,Ice Cream Sundae,C08,9.46,5.17
+M118,Baklava,C08,8.82,5.6
+M119,Carrot Cake,C08,6.25,3.0
+M120,Red Velvet Slice,C08,7.45,3.09
+M121,Fresh Lemonade,C09,5.6,2.47
+M122,Craft Cold Brew,C09,3.01,0.92
+M123,Mango Smoothie,C09,5.41,2.57
+M124,Iced Latte,C09,5.78,3.03
+M125,Masala Chai,C09,5.87,1.78
+M126,Fresh Orange Juice,C09,3.57,1.75
+M127,Sparkling Water,C09,5.66,2.38
+M128,Cappuccino,C09,3.97,2.18
+M129,Strawberry Milkshake,C09,5.02,2.01
+M130,Green Tea,C09,5.13,1.97
+M131,Coca-Cola,C09,4.93,2.42
+M132,Virgin Mojito,C09,3.14,1.13
+M133,Espresso,C09,4.07,2.09
+M134,Berry Smoothie,C09,5.61,2.09
+M135,Salted Caramel Frappe,C09,3.25,1.0
+M136,French Fries,C10,7.78,4.2
+M137,Mashed Potatoes,C10,4.27,2.14
+M138,Steamed Vegetables,C10,7.03,3.32
+M139,Coleslaw,C10,5.23,2.78
+M140,Side Salad,C10,5.69,2.92
+M141,Garlic Naan,C10,6.99,2.16
+M142,Buttered Corn,C10,3.8,1.67
+M143,Cheese Dip,C10,3.13,1.31
+M144,Sweet Potato Fries,C10,5.66,2.27
+M145,Rice Bowl,C10,3.68,1.74
+M146,Pita Bread,C10,7.08,2.29
+M147,Grilled Corn,C10,5.93,1.84
+M148,Extra Cheese,C10,7.43,2.92
+M149,Dinner Roll,C10,6.29,3.23
+M150,Pickle Plate,C10,7.25,5.16

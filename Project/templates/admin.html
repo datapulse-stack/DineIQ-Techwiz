@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin — DineIQ Analytics</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% set ambient = true %}{% include '_scene.html' %}
+<div class="admin-wrap">
+  <div class="admin-head">
+    <div class="brand" style="padding:0">
+      <div class="mark">DI</div>
+      <div><h1 style="font-size:17px;margin:0">Admin Console</h1><small style="color:var(--muted);font-size:11px;letter-spacing:.6px;text-transform:uppercase">Users &amp; audit</small></div>
+    </div>
+    <a class="btn back" href="{{ url_for('home') }}">← Back to dashboard</a>
+    <a class="btn" href="{{ url_for('logout') }}">Log out</a>
+  </div>
+
+  {% with msgs = get_flashed_messages(with_categories=true) %}
+    {% for cat, m in msgs %}<div class="flash {{ cat }}" style="max-width:none">{{ m }}</div>{% endfor %}
+  {% endwith %}
+
+  <div class="grid cols-3" style="margin-bottom:16px">
+    <div class="card kpi"><div class="lbl">Total Users</div><div class="val">{{ users|length }}</div></div>
+    <div class="card kpi"><div class="lbl">Admins</div><div class="val">{{ users|selectattr('role','equalto','Admin')|list|length }}</div></div>
+    <div class="card kpi"><div class="lbl">Audit Events</div><div class="val">{{ audit|length }}</div><div class="hint">most recent shown</div></div>
+  </div>
+
+  <div class="card" style="margin-bottom:16px">
+    <h3>User Management</h3>
+    <p class="sub">Change roles (view-only Analyst → export Manager → full Admin) or deactivate accounts.</p>
+    <div style="overflow-x:auto"><table class="tbl" style="margin-top:6px">
+      <thead><tr><th>User</th><th>Email</th><th>Role</th><th>Status</th><th>Joined</th><th>Actions</th></tr></thead>
+      <tbody>
+      {% for u in users %}
+        <tr>
+          <td><b>{{ u.name }}</b></td>
+          <td class="hint">{{ u.email }}</td>
+          <td><span class="role-pill role-{{ u.role }}">{{ u.role }}</span></td>
+          <td>{% if u.active %}<span class="badge b-driver">active</span>{% else %}<span class="badge b-low">disabled</span>{% endif %}</td>
+          <td class="hint">{{ u.created_at[:10] }}</td>
+          <td>
+            <form method="post" action="{{ url_for('admin_role') }}" style="display:inline-flex;gap:6px;align-items:center">
+              <input type="hidden" name="uid" value="{{ u.id }}" />
+              <select class="role-sel" name="role">
+                {% for r in roles %}<option value="{{ r }}" {% if r==u.role %}selected{% endif %}>{{ r }}</option>{% endfor %}
+              </select>
+              <button class="toggle-btn" type="submit">Set role</button>
+            </form>
+            <form method="post" action="{{ url_for('admin_active') }}" style="display:inline">
+              <input type="hidden" name="uid" value="{{ u.id }}" />
+              <input type="hidden" name="active" value="{{ 0 if u.active else 1 }}" />
+              <button class="toggle-btn {{ 'off' if u.active else 'on' }}" type="submit">{{ 'Disable' if u.active else 'Enable' }}</button>
+            </form>
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table></div>
+  </div>
+
+  <div class="card">
+    <h3>Audit Trail</h3>
+    <p class="sub">Logins, signups, exports and administrative actions — newest first.</p>
+    <div style="overflow-x:auto;max-height:420px;overflow-y:auto"><table class="tbl" style="margin-top:6px">
+      <thead><tr><th>When</th><th>User</th><th>Action</th><th>Detail</th><th>IP</th></tr></thead>
+      <tbody>
+      {% for a in audit %}
+        <tr>
+          <td class="hint">{{ a.ts.replace('T',' ') }}</td>
+          <td>{{ a.user_email or '—' }}</td>
+          <td><span class="badge {{ 'b-low' if 'fail' in a.action or 'disabled' in a.action else 'b-volume' if a.action=='export' else 'b-driver' if a.action in ['login','signup'] else 'b-med' }}">{{ a.action }}</span></td>
+          <td class="hint">{{ a.detail or '' }}</td>
+          <td class="hint">{{ a.ip or '' }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table></div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+  "engine": "scikit-learn",
+  "leaderboard": [
+    {
+      "model": "XGBoost-style GBM",
+      "acc": 0.913,
+      "f1": 0.773,
+      "selected": true
+    },
+    {
+      "model": "Extra Trees",
+      "acc": 0.907,
+      "f1": 0.758,
+      "selected": false
+    },
+    {
+      "model": "Logistic Regression",
+      "acc": 0.891,
+      "f1": 0.738,
+      "selected": false
+    }
+  ],
+  "selected": "XGBoost-style GBM",
+  "features": [
+    "qty",
+    "revenue",
+    "margin",
+    "rating",
+    "repeat",
+    "wastage",
+    "promo_dep",
+    "trend"
+  ],
+  "n_samples": 3000
+}

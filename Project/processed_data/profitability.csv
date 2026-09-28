@@ -1,0 +1,151 @@
+item_id,name,category,qty,revenue,cost,profit,wastage_pct,klass,margin_pct
+M030,Paneer Tikka Masala,Signature Mains,26774,811004.9,276575.4,534429.5,10.3,Profit Driver,65.9
+M098,Seafood Platter,Seafood,24212,743274.0,248415.12,494858.9,10.3,Profit Driver,66.6
+M094,Crab Cakes,Seafood,30622,817915.8,330717.62,487198.22,27.8,Volume Driver,59.6
+M102,Mussels Marinara,Seafood,26563,672787.3,205863.25,466924.1,10.3,Profit Driver,69.4
+M044,Spicy Buffalo Wings,Grills & BBQ,30569,885262.2,420323.75,464938.4,10.0,Volume Driver,52.5
+M104,Fish Tacos,Seafood,22826,523106.22,149738.56,373367.66,10.4,Hidden Opportunity,71.4
+M029,Pan-Seared Steak,Signature Mains,34989,717951.6,345341.44,372610.22,10.0,Profit Driver,51.9
+M039,Char-Grilled Steak,Grills & BBQ,30159,756069.0,393574.97,362494.03,10.1,Volume Driver,47.9
+M058,Seafood Linguine,Pizza & Pasta,35085,633354.94,284539.34,348815.6,10.0,Profit Driver,55.1
+M103,Tuna Steak,Seafood,38989,535628.8,190266.33,345362.53,9.9,Profit Driver,64.5
+M025,Beef Wellington,Signature Mains,28809,651064.0,319203.72,331860.25,10.0,Profit Driver,51.0
+M060,Pesto Pasta,Pizza & Pasta,24131,457007.75,128135.61,328872.16,10.2,Profit Driver,72.0
+M097,Grilled Octopus,Seafood,20568,543149.75,226042.33,317107.44,10.7,Hidden Opportunity,58.4
+M105,Shrimp Scampi,Seafood,17722,502622.25,188916.52,313705.75,11.1,Hidden Opportunity,62.4
+M067,Club Sandwich,Burgers & Sandwiches,40520,605863.9,297822.0,308041.88,9.6,Profit Driver,50.8
+M042,Grilled Veg Platter,Grills & BBQ,20398,458698.4,165427.78,293270.62,10.8,Hidden Opportunity,63.9
+M036,Tandoori Chicken,Grills & BBQ,16854,420886.78,150169.14,270717.66,11.3,Hidden Opportunity,64.3
+M018,Grilled Salmon,Signature Mains,31188,417800.44,149078.64,268721.8,10.0,Profit Driver,64.3
+M070,Steak Sandwich,Burgers & Sandwiches,32799,498259.3,235824.81,262434.53,9.9,Profit Driver,52.7
+M021,Chicken Alfredo,Signature Mains,17447,474916.9,223670.53,251246.36,11.2,Hidden Opportunity,52.9
+M059,Mac and Cheese,Pizza & Pasta,25886,389830.88,145220.47,244610.39,10.1,Profit Driver,62.7
+M045,Mixed Grill,Grills & BBQ,27837,439148.1,201539.88,237608.22,27.7,Volume Driver,54.1
+M040,Smoked Sausage Plate,Grills & BBQ,24377,440880.28,221099.38,219780.9,10.4,Volume Driver,49.9
+M053,Penne Arrabbiata,Pizza & Pasta,20572,322219.88,110060.195,212159.69,10.6,Hidden Opportunity,65.8
+M101,Baked Cod,Seafood,15377,399519.8,189137.11,210382.7,28.6,Low Performer,52.7
+M088,Lemon Rice,Rice & Biryani,25755,378294.12,176421.75,201872.39,10.4,Profit Driver,53.4
+M065,Veggie Burger,Burgers & Sandwiches,23818,360711.25,159818.78,200892.48,10.5,Profit Driver,55.7
+M071,Falafel Wrap,Burgers & Sandwiches,24193,307622.5,110803.94,196818.55,10.2,Profit Driver,64.0
+M028,Chicken Parmesan,Signature Mains,11195,307344.12,111166.35,196177.77,12.6,Hidden Opportunity,63.8
+M038,Grilled Lamb Skewers,Grills & BBQ,16026,475718.8,281096.03,194622.78,11.3,Low Performer,40.9
+M079,Egg Fried Rice,Rice & Biryani,16928,279498.53,89718.4,189780.14,11.2,Hidden Opportunity,67.9
+M034,Lamb Chops,Grills & BBQ,10199,303663.4,117186.51,186476.89,12.9,Hidden Opportunity,61.4
+M080,Chicken Fried Rice,Rice & Biryani,15510,302489.9,117876.0,184613.9,11.6,Hidden Opportunity,61.0
+M049,Four Cheese Pasta,Pizza & Pasta,27618,436733.5,254637.97,182095.55,10.2,Volume Driver,41.7
+M054,Lasagne al Forno,Pizza & Pasta,17213,299801.56,119630.35,180171.22,11.0,Hidden Opportunity,60.1
+M032,BBQ Ribs Full Rack,Grills & BBQ,12652,252156.34,77430.24,174726.11,11.9,Hidden Opportunity,69.3
+M051,Veggie Supreme Pizza,Pizza & Pasta,15505,290458.7,117993.055,172465.64,11.3,Hidden Opportunity,59.4
+M141,Garlic Naan,Sides & Extras,35583,248426.7,76859.28,171567.42,9.9,Profit Driver,69.1
+M092,Fish and Chips,Seafood,9412,253962.4,83390.32,170572.08,13.2,Hidden Opportunity,67.2
+M085,Vegetable Pulao,Rice & Biryani,34707,446903.47,277308.94,169594.53,27.4,Volume Driver,37.9
+M083,Mushroom Rice,Rice & Biryani,15010,250857.77,85256.805,165600.97,11.4,Hidden Opportunity,66.0
+M056,Hawaiian Pizza,Pizza & Pasta,17389,256162.95,92335.59,163827.36,11.1,Hidden Opportunity,64.0
+M091,Grilled Prawns,Seafood,18250,286643.16,125560.0,161083.14,11.0,Hidden Opportunity,56.2
+M093,Butter Garlic Shrimp,Seafood,12953,252753.19,91966.3,160786.89,12.2,Hidden Opportunity,63.6
+M017,Butter Chicken,Signature Mains,11204,246916.0,86494.875,160421.12,12.7,Hidden Opportunity,65.0
+M026,Duck Confit,Signature Mains,25502,450346.53,299393.47,150953.05,10.4,Volume Driver,33.5
+M096,Fried Calamari,Seafood,22545,515684.2,368836.22,146847.97,10.5,Low Performer,28.5
+M027,Vegetable Korma,Signature Mains,23074,373022.75,231201.48,141821.27,10.5,Low Performer,38.0
+M086,Schezwan Fried Rice,Rice & Biryani,21324,234295.88,96810.96,137484.92,10.6,Hidden Opportunity,58.7
+M033,Peri Peri Chicken,Grills & BBQ,11610,332089.0,199808.1,132280.9,29.0,Low Performer,39.8
+M117,Ice Cream Sundae,Desserts,21588,241627.61,111609.96,130017.65,10.7,Hidden Opportunity,53.8
+M009,Hummus Platter,Starters,32123,335864.75,206550.89,129313.875,10.1,Volume Driver,38.5
+M076,Chicken Biryani,Rice & Biryani,24923,270148.12,141562.64,128585.484,10.4,Volume Driver,47.6
+M089,Hyderabadi Biryani,Rice & Biryani,15423,204637.81,80662.29,123975.53,11.5,Hidden Opportunity,60.6
+M062,Cheeseburger Deluxe,Burgers & Sandwiches,14814,240762.52,123696.9,117065.62,11.4,Low Performer,48.6
+M113,Sticky Toffee Pudding,Desserts,23847,225825.03,110650.08,115174.95,10.4,Profit Driver,51.0
+M090,Steamed Basmati,Rice & Biryani,12263,188383.48,74436.41,113947.086,12.0,Hidden Opportunity,60.5
+M099,Salmon Teriyaki,Seafood,8084,224848.3,114711.96,110136.34,29.9,Low Performer,49.0
+M019,Mushroom Risotto,Signature Mains,12470,179880.66,74196.5,105684.16,12.1,Hidden Opportunity,58.8
+M140,Side Salad,Sides & Extras,39412,218638.69,115083.05,103555.64,9.7,Volume Driver,47.4
+M118,Baklava,Desserts,36676,307345.6,205385.6,101960.0,9.8,Volume Driver,33.2
+M037,BBQ Pulled Pork,Grills & BBQ,7472,176662.16,75766.08,100896.08,14.7,Hidden Opportunity,57.1
+M046,Margherita Pizza,Pizza & Pasta,12016,160193.67,59959.84,100233.83,12.2,Hidden Opportunity,62.6
+M048,Truffle Carbonara,Pizza & Pasta,21264,302958.7,203496.47,99462.21,10.7,Low Performer,32.8
+M020,Beef Stroganoff,Signature Mains,18613,313010.16,215166.28,97843.88,11.0,Low Performer,31.3
+M114,Banoffee Pie,Desserts,24128,215983.94,118468.48,97515.46,10.4,Volume Driver,45.1
+M022,Lamb Rogan Josh,Signature Mains,9371,185282.75,87993.695,97289.06,13.4,Hidden Opportunity,52.5
+M055,Meat Feast Pizza,Pizza & Pasta,10762,178026.52,81791.195,96235.32,12.5,Hidden Opportunity,54.1
+M041,Chicken Tikka Skewers,Grills & BBQ,7788,189150.52,96337.56,92812.96,14.4,Low Performer,49.1
+M095,Lobster Thermidor,Seafood,8532,145919.61,57420.36,88499.25,13.7,Hidden Opportunity,60.6
+M112,Apple Pie,Desserts,19934,180040.75,92294.42,87746.32,10.8,Low Performer,48.7
+M077,Mutton Biryani,Rice & Biryani,15976,168929.38,81317.84,87611.54,11.4,Hidden Opportunity,51.9
+M050,BBQ Chicken Pizza,Pizza & Pasta,10270,126259.0,42415.1,83843.9,12.7,Hidden Opportunity,66.4
+M057,Mushroom Pizza,Pizza & Pasta,11033,179222.94,95987.1,83235.84,12.5,Low Performer,46.4
+M124,Iced Latte,Beverages,33020,182093.98,100050.6,82043.38,10.0,Volume Driver,45.1
+M010,Stuffed Mushrooms,Starters,12813,121578.84,39976.56,81602.28,11.8,Hidden Opportunity,67.1
+M108,Gelato Trio,Desserts,20011,165594.36,86847.74,78746.62,10.7,Low Performer,47.6
+M068,Grilled Chicken Wrap,Burgers & Sandwiches,11123,153379.75,74857.79,78521.96,12.4,Hidden Opportunity,51.2
+M106,Molten Lava Cake,Desserts,23496,218893.44,140741.03,78152.41,10.7,Volume Driver,35.7
+M146,Pita Bread,Sides & Extras,17357,115604.8,39747.53,75857.266,11.1,Hidden Opportunity,65.6
+M120,Red Velvet Slice,Desserts,15055,121406.0,46519.95,74886.05,11.5,Hidden Opportunity,61.7
+M087,Kabuli Pulao,Rice & Biryani,11490,110217.86,35963.703,74254.16,29.0,Hidden Opportunity,67.4
+M031,Smoked Brisket,Grills & BBQ,4219,112744.44,39911.74,72832.7,18.6,Hidden Opportunity,64.6
+M100,Prawn Curry,Seafood,9279,155889.34,83232.63,72656.72,13.3,Low Performer,46.6
+M024,Roast Chicken,Signature Mains,5975,115719.76,47202.5,68517.26,15.8,Hidden Opportunity,59.2
+M072,Philly Cheesesteak,Burgers & Sandwiches,18806,239983.0,173767.44,66215.56,11.0,Low Performer,27.6
+M015,Greek Salad,Starters,13711,131516.27,65538.58,65977.68,28.7,Low Performer,50.2
+M147,Grilled Corn,Sides & Extras,15969,93965.53,29382.96,64582.566,11.4,Hidden Opportunity,68.7
+M081,Prawn Biryani,Rice & Biryani,5068,95249.76,31218.879,64030.88,17.2,Hidden Opportunity,67.2
+M111,Creme Brulee,Desserts,18540,121912.445,58030.203,63882.246,28.2,Low Performer,52.4
+M075,Halloumi Burger,Burgers & Sandwiches,14100,203202.16,139590.0,63612.16,11.6,Low Performer,31.3
+M016,Signature Ribeye,Signature Mains,8916,202235.39,139267.92,62967.477,29.6,Low Performer,31.1
+M013,Prawn Tempura,Starters,16160,113477.57,50904.0,62573.57,11.3,Low Performer,55.1
+M148,Extra Cheese,Sides & Extras,14779,104752.58,43154.68,61597.9,11.5,Hidden Opportunity,58.8
+M135,Salted Caramel Frappe,Beverages,28061,89424.72,28061.0,61363.72,10.1,Profit Driver,68.6
+M074,Spicy Zinger Burger,Burgers & Sandwiches,8219,85730.41,26054.23,59676.18,30.0,Hidden Opportunity,69.6
+M149,Dinner Roll,Sides & Extras,21040,125210.54,67959.195,57251.344,10.7,Low Performer,45.7
+M084,Beef Pulao,Rice & Biryani,10656,121481.85,64255.68,57226.17,12.8,Low Performer,47.1
+M136,French Fries,Sides & Extras,13608,113330.74,57153.598,56177.14,11.8,Low Performer,49.6
+M043,Beef Short Ribs,Grills & BBQ,3406,99216.46,43392.44,55824.02,20.3,Hidden Opportunity,56.3
+M012,Onion Rings,Starters,19488,130149.5,76392.96,53756.54,28.2,Low Performer,41.3
+M129,Strawberry Milkshake,Beverages,17810,86243.7,35798.1,50445.6,11.1,Hidden Opportunity,58.5
+M063,Crispy Chicken Burger,Burgers & Sandwiches,9440,127367.37,77785.6,49581.77,13.2,Low Performer,38.9
+M134,Berry Smoothie,Beverages,14230,78248.12,29740.7,48507.418,11.6,Hidden Opportunity,62.0
+M132,Virgin Mojito,Beverages,25315,73979.57,28605.951,45373.62,10.3,Profit Driver,61.3
+M002,Loaded Nachos,Starters,16020,73386.38,28355.4,45030.98,11.2,Hidden Opportunity,61.4
+M122,Craft Cold Brew,Beverages,23735,66143.54,21836.2,44307.34,10.6,Profit Driver,67.0
+M006,Spring Rolls,Starters,6818,70335.06,28567.42,41767.64,15.1,Hidden Opportunity,59.4
+M011,Cheese Sticks,Starters,15911,81835.28,40254.832,41580.45,11.3,Low Performer,50.8
+M073,BBQ Bacon Burger,Burgers & Sandwiches,4745,61459.36,22870.9,38588.46,17.7,Hidden Opportunity,62.8
+M142,Buttered Corn,Sides & Extras,19378,70364.41,32361.26,38003.15,11.1,Hidden Opportunity,54.0
+M150,Pickle Plate,Sides & Extras,18126,130934.984,93530.16,37404.824,11.0,Low Performer,28.6
+M126,Fresh Orange Juice,Beverages,19819,71455.76,34683.25,36772.508,10.7,Hidden Opportunity,51.5
+M139,Coleslaw,Sides & Extras,18213,87295.64,50632.14,36663.5,10.9,Low Performer,42.0
+M064,Double Bacon Burger,Burgers & Sandwiches,7429,71981.25,36550.68,35430.57,14.8,Low Performer,49.2
+M001,Truffle Fries,Starters,9048,59387.28,24520.08,34867.2,13.7,Hidden Opportunity,58.7
+M014,Caesar Salad,Starters,14255,74020.17,40056.55,33963.62,11.6,Low Performer,45.9
+M121,Fresh Lemonade,Beverages,11883,62984.72,29351.01,33633.71,12.0,Hidden Opportunity,53.4
+M005,Chicken Wings,Starters,10620,67514.08,33984.0,33530.08,12.8,Low Performer,49.7
+M035,Grilled Kebab Platter,Grills & BBQ,3049,64025.01,30886.37,33138.64,21.3,Low Performer,51.8
+M052,Spaghetti Bolognese,Pizza & Pasta,5501,68444.875,35701.49,32743.39,16.6,Low Performer,47.8
+M110,Chocolate Brownie,Desserts,9274,64693.46,32366.26,32327.2,13.6,Low Performer,50.0
+M047,Pepperoni Pizza,Pizza & Pasta,3372,46640.42,17062.32,29578.1,20.2,Hidden Opportunity,63.4
+M138,Steamed Vegetables,Sides & Extras,7791,55262.82,25866.12,29396.701,14.4,Hidden Opportunity,53.2
+M125,Masala Chai,Beverages,7698,42377.25,13702.44,28674.81,14.2,Hidden Opportunity,67.7
+M109,Tiramisu,Desserts,8766,54285.81,25859.701,28426.11,13.6,Hidden Opportunity,52.4
+M127,Sparkling Water,Beverages,10603,53164.57,25235.14,27929.43,12.6,Hidden Opportunity,52.5
+M145,Rice Bowl,Sides & Extras,14307,51049.88,24894.18,26155.701,11.6,Hidden Opportunity,51.2
+M115,Panna Cotta,Desserts,9024,44604.63,18860.16,25744.47,13.5,Hidden Opportunity,57.7
+M130,Green Tea,Beverages,8417,41784.5,16581.49,25203.01,13.9,Hidden Opportunity,60.3
+M061,Classic Beef Burger,Burgers & Sandwiches,3867,41367.97,16628.1,24739.87,19.2,Hidden Opportunity,59.8
+M007,Garlic Bread,Starters,13509,77242.44,53495.64,23746.799,28.9,Low Performer,30.7
+M082,Jeera Rice,Rice & Biryani,2300,39930.89,18377.0,21553.89,33.8,Low Performer,54.0
+M069,Fish Burger,Burgers & Sandwiches,3536,38161.95,16654.56,21507.389,19.9,Hidden Opportunity,56.4
+M008,Bruschetta,Starters,6612,40686.04,19307.041,21379.0,15.3,Hidden Opportunity,52.5
+M119,Carrot Cake,Desserts,5760,37799.5,17280.0,20519.5,16.3,Hidden Opportunity,54.3
+M066,Pulled Pork Sandwich,Burgers & Sandwiches,3396,38158.63,19628.88,18529.75,20.6,Low Performer,48.6
+M107,New York Cheesecake,Desserts,9185,68570.96,50150.098,18420.861,13.6,Low Performer,26.9
+M023,Thai Green Curry,Signature Mains,2084,45119.04,27988.121,17130.92,24.3,Low Performer,38.0
+M143,Cheese Dip,Sides & Extras,10673,31007.69,13981.63,17026.06,12.7,Low Performer,54.9
+M003,Soup of the Day,Starters,4352,29678.02,13926.4,15751.62,18.2,Low Performer,53.1
+M078,Veg Biryani,Rice & Biryani,5669,60228.24,45748.83,14479.412,16.2,Low Performer,24.0
+M123,Mango Smoothie,Beverages,4578,24049.75,11765.46,12284.29,17.9,Low Performer,51.1
+M131,Coca-Cola,Beverages,4410,22402.27,10672.2,11730.069,18.5,Low Performer,52.4
+M116,Fruit Tart,Desserts,3079,18734.77,8621.2,10113.57,21.1,Low Performer,54.0
+M004,Calamari Rings,Starters,3983,26998.18,17445.541,9552.64,19.1,Low Performer,35.4
+M137,Mashed Potatoes,Sides & Extras,3347,14318.47,7162.58,7155.89,20.3,Low Performer,50.0
+M144,Sweet Potato Fries,Sides & Extras,2052,11478.109,4658.04,6820.07,24.9,Hidden Opportunity,59.4
+M133,Espresso,Beverages,2512,11266.96,5250.08,6016.8804,34.1,Low Performer,53.4
+M128,Cappuccino,Beverages,2570,10141.86,5602.6,4539.26,22.6,Low Performer,44.8

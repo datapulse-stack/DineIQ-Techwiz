@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Access denied — DineIQ</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% include '_scene.html' %}
+<div class="auth-wrap">
+  <div class="auth-card" style="text-align:center">
+    <div class="auth-brand" style="justify-content:center">
+      <div class="mark">DI</div>
+      <div style="text-align:left"><h1>DineIQ<span style="color:var(--brand)"> Analytics</span></h1><small class="pulse-word" style="font-size:12px">Data Pulse</small></div>
+    </div>
+    <h2>Not allowed</h2>
+    <p class="lead">Your role doesn't have permission for that. Ask an admin to upgrade your access.</p>
+    <a class="btn primary btn-full" href="{{ url_for('home') }}">Back to dashboard</a>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>

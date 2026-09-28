@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Reset password — DineIQ Analytics</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% include '_scene.html' %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="auth-brand">
+      <div class="mark">DI</div>
+      <div><h1>DineIQ<span style="color:var(--brand)"> Analytics</span></h1><small>Data Pulse</small></div>
+    </div>
+    <h2>Reset your password</h2>
+    <p class="lead">Any account — Admin, Manager or Analyst — can set a new password here.</p>
+
+    {% with msgs = get_flashed_messages(with_categories=true) %}
+      {% for cat, m in msgs %}<div class="flash {{ cat }}">{{ m }}</div>{% endfor %}
+    {% endwith %}
+
+    <form method="post" action="{{ url_for('forgot') }}">
+      <div class="field"><label>Account email</label><input type="email" name="email" placeholder="you@restaurant.com" required autofocus /></div>
+      <div class="field"><label>New password</label><input type="password" name="password" placeholder="at least 6 characters" required /></div>
+      <div class="field"><label>Confirm new password</label><input type="password" name="confirm" placeholder="repeat it" required /></div>
+      <button class="btn primary btn-full" type="submit">Update password</button>
+    </form>
+
+    <div class="auth-alt">Remembered it? <a href="{{ url_for('login') }}">Back to sign in</a></div>
+    <div class="hint-box">For this demo the reset is self-service (no email step). In production this screen would send a one-time link to the account's inbox.</div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+step,records
+Removed duplicate order-lines,8699
+Removed non-positive quantities,120
+Recovered invalid prices from history,350
+Quarantined unknown item references,0
+Dropped out-of-range ratings,200
+Removed impossible wastage rows,90
+Flagged guest orders,2500

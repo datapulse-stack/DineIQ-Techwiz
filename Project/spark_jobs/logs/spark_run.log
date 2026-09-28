@@ -1,0 +1,14 @@
+2026-09-28 08:02:48,012 [INFO] === DineIQ Spark pipeline starting @ 2026-09-28T08:02:48.012623 ===
+2026-09-28 08:03:03,836 [INFO] ingested: order_items=1209427 orders=312503 menu_items=150 ratings=157007 wastage=152901
+2026-09-28 08:03:13,040 [INFO] cleaning: 1209427 -> 1200258 rows (dropped 9169)
+2026-09-28 08:03:21,915 [INFO] wrote partitioned parquet -> /home/user/dineiq/processed_data/spark/fact_order_lines.parquet
+2026-09-28 08:03:30,118 [INFO] feature table: 3000 item x location rows
+2026-09-28 08:03:31,545 [INFO] train rows=2069  test rows=931
+2026-09-28 08:03:43,990 [INFO] [Spark MLlib] Random Forest        accuracy=0.910  macro-F1=0.898
+2026-09-28 08:03:47,549 [INFO] [Spark MLlib] Decision Tree        accuracy=0.894  macro-F1=0.884
+2026-09-28 08:06:33,230 [INFO] [Spark MLlib] Logistic Regression  accuracy=0.868  macro-F1=0.845
+2026-09-28 08:06:33,231 [INFO] selected best spark model: Random Forest (macro-F1=0.898)
+2026-09-28 08:06:34,987 [INFO] wrote 3000 spark predictions -> /home/user/dineiq/processed_data/spark_predictions.csv
+2026-09-28 08:06:37,351 [INFO] saved spark model -> /home/user/dineiq/spark_jobs/models/spark_best_model
+2026-09-28 08:06:37,353 [INFO] wrote spark_metrics.json
+2026-09-28 08:06:37,353 [INFO] === Spark pipeline complete in 229.3s ===

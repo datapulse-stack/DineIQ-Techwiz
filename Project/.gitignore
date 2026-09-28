@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
+# generated artifacts - regenerate with `python run_all.py`
+# (kept out of git so the repo stays lean; uncomment to commit them)
+# raw_data/*.csv
+# processed_data/*.csv
+# outputs/*.json
+
+# auth: local users DB + session secret (never commit these)
+database/*.db
+database/secret.key

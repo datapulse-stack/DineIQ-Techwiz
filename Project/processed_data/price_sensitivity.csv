@@ -1,0 +1,151 @@
+item_id,name,category_id,elasticity,sensitivity,basis
+M031,Smoked Brisket,C03,-4.0,Highly Price Sensitive,observed
+M082,Jeera Rice,C06,-4.0,Highly Price Sensitive,observed
+M101,Baked Cod,C07,-3.52,Highly Price Sensitive,observed
+M096,Fried Calamari,C07,-2.59,Highly Price Sensitive,observed
+M072,Philly Cheesesteak,C05,-2.52,Highly Price Sensitive,observed
+M041,Chicken Tikka Skewers,C03,-2.35,Highly Price Sensitive,observed
+M043,Beef Short Ribs,C03,-2.22,Highly Price Sensitive,observed
+M083,Mushroom Rice,C06,-2.13,Highly Price Sensitive,observed
+M090,Steamed Basmati,C06,-1.92,Highly Price Sensitive,observed
+M121,Fresh Lemonade,C09,-1.88,Highly Price Sensitive,observed
+M061,Classic Beef Burger,C05,-1.88,Highly Price Sensitive,observed
+M105,Shrimp Scampi,C07,-1.78,Highly Price Sensitive,observed
+M057,Mushroom Pizza,C04,-1.72,Highly Price Sensitive,observed
+M020,Beef Stroganoff,C02,-1.52,Highly Price Sensitive,observed
+M075,Halloumi Burger,C05,-1.51,Highly Price Sensitive,observed
+M003,Soup of the Day,C01,-1.45,Highly Price Sensitive,observed
+M073,BBQ Bacon Burger,C05,-1.45,Highly Price Sensitive,observed
+M085,Vegetable Pulao,C06,-1.32,Moderately Price Sensitive,observed
+M150,Pickle Plate,C10,-1.2,Moderately Price Sensitive,observed
+M022,Lamb Rogan Josh,C02,-1.03,Moderately Price Sensitive,observed
+M097,Grilled Octopus,C07,-1.0,Moderately Price Sensitive,observed
+M147,Grilled Corn,C10,-0.96,Moderately Price Sensitive,observed
+M064,Double Bacon Burger,C05,-0.92,Moderately Price Sensitive,observed
+M114,Banoffee Pie,C08,-0.92,Moderately Price Sensitive,observed
+M113,Sticky Toffee Pudding,C08,-0.92,Moderately Price Sensitive,observed
+M138,Steamed Vegetables,C10,-0.91,Moderately Price Sensitive,observed
+M004,Calamari Rings,C01,-0.9,Moderately Price Sensitive,observed
+M062,Cheeseburger Deluxe,C05,-0.89,Moderately Price Sensitive,observed
+M071,Falafel Wrap,C05,-0.85,Moderately Price Sensitive,observed
+M079,Egg Fried Rice,C06,-0.82,Moderately Price Sensitive,observed
+M039,Char-Grilled Steak,C03,-0.81,Moderately Price Sensitive,observed
+M063,Crispy Chicken Burger,C05,-0.79,Low Price Sensitivity,observed
+M087,Kabuli Pulao,C06,-0.79,Low Price Sensitivity,observed
+M008,Bruschetta,C01,-0.79,Low Price Sensitivity,observed
+M007,Garlic Bread,C01,-0.77,Low Price Sensitivity,observed
+M120,Red Velvet Slice,C08,-0.72,Low Price Sensitivity,observed
+M084,Beef Pulao,C06,-0.7,Low Price Sensitivity,observed
+M124,Iced Latte,C09,-0.7,Low Price Sensitivity,observed
+M030,Paneer Tikka Masala,C02,-0.69,Low Price Sensitivity,observed
+M093,Butter Garlic Shrimp,C07,-0.69,Low Price Sensitivity,observed
+M065,Veggie Burger,C05,-0.67,Low Price Sensitivity,observed
+M029,Pan-Seared Steak,C02,-0.65,Low Price Sensitivity,observed
+M035,Grilled Kebab Platter,C03,-0.64,Low Price Sensitivity,observed
+M081,Prawn Biryani,C06,-0.62,Low Price Sensitivity,observed
+M116,Fruit Tart,C08,-0.61,Low Price Sensitivity,observed
+M058,Seafood Linguine,C04,-0.6,Low Price Sensitivity,observed
+M009,Hummus Platter,C01,-0.6,Low Price Sensitivity,observed
+M034,Lamb Chops,C03,-0.59,Low Price Sensitivity,observed
+M060,Pesto Pasta,C04,-0.58,Low Price Sensitivity,observed
+M134,Berry Smoothie,C09,-0.57,Low Price Sensitivity,observed
+M048,Truffle Carbonara,C04,-0.56,Low Price Sensitivity,observed
+M106,Molten Lava Cake,C08,-0.56,Low Price Sensitivity,observed
+M074,Spicy Zinger Burger,C05,-0.54,Low Price Sensitivity,observed
+M056,Hawaiian Pizza,C04,-0.53,Low Price Sensitivity,observed
+M015,Greek Salad,C01,-0.52,Low Price Sensitivity,observed
+M068,Grilled Chicken Wrap,C05,-0.5,Low Price Sensitivity,observed
+M006,Spring Rolls,C01,-0.49,Low Price Sensitivity,observed
+M066,Pulled Pork Sandwich,C05,-0.48,Low Price Sensitivity,observed
+M076,Chicken Biryani,C06,-0.47,Low Price Sensitivity,observed
+M133,Espresso,C09,-0.46,Low Price Sensitivity,observed
+M112,Apple Pie,C08,-0.46,Low Price Sensitivity,observed
+M092,Fish and Chips,C07,-0.45,Low Price Sensitivity,observed
+M025,Beef Wellington,C02,-0.43,Low Price Sensitivity,observed
+M095,Lobster Thermidor,C07,-0.43,Low Price Sensitivity,observed
+M040,Smoked Sausage Plate,C03,-0.43,Low Price Sensitivity,observed
+M117,Ice Cream Sundae,C08,-0.42,Low Price Sensitivity,observed
+M088,Lemon Rice,C06,-0.42,Low Price Sensitivity,observed
+M102,Mussels Marinara,C07,-0.41,Low Price Sensitivity,observed
+M144,Sweet Potato Fries,C10,-0.39,Low Price Sensitivity,observed
+M045,Mixed Grill,C03,-0.37,Low Price Sensitivity,observed
+M080,Chicken Fried Rice,C06,-0.36,Low Price Sensitivity,observed
+M078,Veg Biryani,C06,-0.36,Low Price Sensitivity,observed
+M036,Tandoori Chicken,C03,-0.34,Low Price Sensitivity,observed
+M033,Peri Peri Chicken,C03,-0.34,Low Price Sensitivity,observed
+M089,Hyderabadi Biryani,C06,-0.33,Low Price Sensitivity,observed
+M104,Fish Tacos,C07,-0.32,Low Price Sensitivity,observed
+M135,Salted Caramel Frappe,C09,-0.31,Low Price Sensitivity,observed
+M038,Grilled Lamb Skewers,C03,-0.3,Low Price Sensitivity,observed
+M119,Carrot Cake,C08,-0.3,Low Price Sensitivity,observed
+M013,Prawn Tempura,C01,-0.27,Low Price Sensitivity,observed
+M024,Roast Chicken,C02,-0.27,Low Price Sensitivity,observed
+M094,Crab Cakes,C07,-0.26,Low Price Sensitivity,observed
+M054,Lasagne al Forno,C04,-0.25,Low Price Sensitivity,observed
+M055,Meat Feast Pizza,C04,-0.23,Low Price Sensitivity,observed
+M044,Spicy Buffalo Wings,C03,-0.21,Low Price Sensitivity,observed
+M052,Spaghetti Bolognese,C04,-0.21,Low Price Sensitivity,observed
+M145,Rice Bowl,C10,-0.2,Low Price Sensitivity,observed
+M069,Fish Burger,C05,-0.18,Low Price Sensitivity,observed
+M141,Garlic Naan,C10,-0.17,Low Price Sensitivity,observed
+M047,Pepperoni Pizza,C04,-0.16,Low Price Sensitivity,observed
+M128,Cappuccino,C09,-0.14,Low Price Sensitivity,observed
+M050,BBQ Chicken Pizza,C04,-0.11,Low Price Sensitivity,observed
+M142,Buttered Corn,C10,-0.1,Low Price Sensitivity,observed
+M005,Chicken Wings,C01,-0.09,Low Price Sensitivity,observed
+M136,French Fries,C10,-0.08,Low Price Sensitivity,observed
+M032,BBQ Ribs Full Rack,C03,-0.06,Low Price Sensitivity,observed
+M118,Baklava,C08,-0.03,Low Price Sensitivity,observed
+M099,Salmon Teriyaki,C07,-0.0,Low Price Sensitivity,observed
+M100,Prawn Curry,C07,0.01,Low Price Sensitivity,observed
+M037,BBQ Pulled Pork,C03,0.02,Low Price Sensitivity,observed
+M098,Seafood Platter,C07,0.03,Low Price Sensitivity,observed
+M016,Signature Ribeye,C02,0.04,Low Price Sensitivity,observed
+M002,Loaded Nachos,C01,0.05,Low Price Sensitivity,observed
+M110,Chocolate Brownie,C08,0.07,Low Price Sensitivity,observed
+M115,Panna Cotta,C08,0.07,Low Price Sensitivity,observed
+M137,Mashed Potatoes,C10,0.08,Low Price Sensitivity,observed
+M109,Tiramisu,C08,0.09,Low Price Sensitivity,observed
+M126,Fresh Orange Juice,C09,0.1,Low Price Sensitivity,observed
+M108,Gelato Trio,C08,0.1,Low Price Sensitivity,observed
+M129,Strawberry Milkshake,C09,0.11,Low Price Sensitivity,observed
+M130,Green Tea,C09,0.11,Low Price Sensitivity,observed
+M070,Steak Sandwich,C05,0.13,Low Price Sensitivity,observed
+M026,Duck Confit,C02,0.15,Low Price Sensitivity,observed
+M131,Coca-Cola,C09,0.2,Low Price Sensitivity,observed
+M059,Mac and Cheese,C04,0.22,Low Price Sensitivity,observed
+M067,Club Sandwich,C05,0.25,Low Price Sensitivity,observed
+M051,Veggie Supreme Pizza,C04,0.27,Low Price Sensitivity,observed
+M123,Mango Smoothie,C09,0.41,Low Price Sensitivity,observed
+M027,Vegetable Korma,C02,0.44,Low Price Sensitivity,observed
+M021,Chicken Alfredo,C02,0.58,Low Price Sensitivity,observed
+M127,Sparkling Water,C09,0.58,Low Price Sensitivity,observed
+M103,Tuna Steak,C07,0.7,Low Price Sensitivity,observed
+M012,Onion Rings,C01,0.7,Low Price Sensitivity,observed
+M046,Margherita Pizza,C04,0.71,Low Price Sensitivity,observed
+M140,Side Salad,C10,0.73,Low Price Sensitivity,observed
+M019,Mushroom Risotto,C02,0.73,Low Price Sensitivity,observed
+M023,Thai Green Curry,C02,0.92,Low Price Sensitivity,observed
+M011,Cheese Sticks,C01,0.92,Low Price Sensitivity,observed
+M107,New York Cheesecake,C08,0.96,Low Price Sensitivity,observed
+M111,Creme Brulee,C08,0.98,Low Price Sensitivity,observed
+M125,Masala Chai,C09,1.0,Low Price Sensitivity,observed
+M122,Craft Cold Brew,C09,1.0,Low Price Sensitivity,observed
+M077,Mutton Biryani,C06,1.0,Low Price Sensitivity,observed
+M042,Grilled Veg Platter,C03,1.0,Low Price Sensitivity,observed
+M086,Schezwan Fried Rice,C06,1.0,Low Price Sensitivity,observed
+M091,Grilled Prawns,C07,1.0,Low Price Sensitivity,observed
+M028,Chicken Parmesan,C02,1.0,Low Price Sensitivity,observed
+M018,Grilled Salmon,C02,1.0,Low Price Sensitivity,observed
+M017,Butter Chicken,C02,1.0,Low Price Sensitivity,observed
+M014,Caesar Salad,C01,1.0,Low Price Sensitivity,observed
+M010,Stuffed Mushrooms,C01,1.0,Low Price Sensitivity,observed
+M049,Four Cheese Pasta,C04,1.0,Low Price Sensitivity,observed
+M053,Penne Arrabbiata,C04,1.0,Low Price Sensitivity,observed
+M001,Truffle Fries,C01,1.0,Low Price Sensitivity,observed
+M143,Cheese Dip,C10,1.0,Low Price Sensitivity,observed
+M139,Coleslaw,C10,1.0,Low Price Sensitivity,observed
+M132,Virgin Mojito,C09,1.0,Low Price Sensitivity,observed
+M146,Pita Bread,C10,1.0,Low Price Sensitivity,observed
+M148,Extra Cheese,C10,1.0,Low Price Sensitivity,observed
+M149,Dinner Roll,C10,1.0,Low Price Sensitivity,observed

@@ -1,0 +1,21 @@
+location_id,name,city
+L01,Downtown,Metro City
+L02,Harborview,Metro City
+L03,Uptown,Metro City
+L04,Airport Terminal,Metro City
+L05,Riverside,Metro City
+L06,Grand Mall,Northgate
+L07,Old Town,Northgate
+L08,Lakeside,Northgate
+L09,Tech Park,Northgate
+L10,Station Square,Northgate
+L11,Beachfront,Sunport
+L12,Marina Bay,Sunport
+L13,Hillcrest,Sunport
+L14,Sunset Plaza,Sunport
+L15,Central Station,Eastvale
+L16,Green Valley,Eastvale
+L17,University District,Eastvale
+L18,Business Bay,Eastvale
+L19,Silver Heights,Westbrook
+L20,Palm Court,Westbrook

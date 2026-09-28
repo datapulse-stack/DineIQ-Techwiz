@@ -1,0 +1,7 @@
+type,location,date,severity,detail
+Sales spike,All locations,2026-05-22,medium,Daily revenue was +2.2 std from the norm (well above expected). Flagged for review.
+Sales spike,All locations,2026-05-23,medium,Daily revenue was +2.1 std from the norm (well above expected). Flagged for review.
+Sales spike,All locations,2026-05-30,medium,Daily revenue was +2.1 std from the norm (well above expected). Flagged for review.
+Sales spike,All locations,2026-06-26,medium,Daily revenue was +2.1 std from the norm (well above expected). Flagged for review.
+Rating cluster,Multiple,2026-09-17,medium,41 identical 5-star ratings on item M063 within one hour - possible non-organic ratings.
+Order-value outliers,Multiple,last 14 days,low,"502 orders exceeded 360 (4+ std above the mean order). Likely large group bookings - kept, but flagged for review."

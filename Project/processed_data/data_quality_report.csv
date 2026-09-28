@@ -1,0 +1,10 @@
+issue,records,action
+Missing customer IDs,2500,flag & keep (guest orders)
+Duplicate order-lines,8699,quarantine
+Invalid / non-positive prices,350,recover from pricing history
+Negative quantities,120,remove
+Invalid ratings (outside 1-5),200,clamp / drop
+Impossible wastage (<0),90,remove
+Unknown menu item refs,0,quarantine
+Invalid location refs,0,quarantine
+Cancelled / non-completed orders,0,exclude from revenue

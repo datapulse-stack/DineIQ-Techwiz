@@ -1,0 +1,10 @@
+promotion_id,name,type,discount_pct,start_date,end_date
+P01,Weekday Lunch Combo,combo,15,2025-10-21,2026-09-25
+P02,Family Combo,combo,25,2025-11-02,2026-09-25
+P03,App-Only 20% Off,channel,20,2025-11-03,2026-09-25
+P04,Dessert Add-on,upsell,10,2025-11-07,2026-09-25
+P05,Happy Hour Drinks,timed,30,2025-11-14,2026-09-25
+P06,Weekend Feast,combo,22,2025-11-06,2026-09-25
+P07,Student Discount,channel,12,2025-10-19,2026-09-25
+P08,Loyalty Reward,loyalty,8,2025-11-18,2026-09-25
+P09,Seasonal Special,timed,18,2025-11-18,2026-09-25

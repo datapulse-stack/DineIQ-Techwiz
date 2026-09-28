@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-09-28T08:06:37",
+  "engine": "Apache Spark MLlib 4.2.0",
+  "n_samples": 3000,
+  "leaderboard": [
+    {
+      "model": "Random Forest",
+      "acc": 0.91,
+      "f1": 0.898,
+      "selected": true
+    },
+    {
+      "model": "Decision Tree",
+      "acc": 0.894,
+      "f1": 0.884,
+      "selected": false
+    },
+    {
+      "model": "Logistic Regression",
+      "acc": 0.868,
+      "f1": 0.845,
+      "selected": false
+    }
+  ],
+  "selected": "Random Forest",
+  "features": [
+    "qty",
+    "revenue",
+    "margin",
+    "rating",
+    "wastage",
+    "promo_dep"
+  ],
+  "runtime_sec": 229.3
+}

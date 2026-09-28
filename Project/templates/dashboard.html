@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<!-- DineIQ Analytics dashboard shell. The heavy lifting is in static/dashboard.js;
+     the data blob below is injected by Flask from outputs/dashboard_data.json. -->
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>DineIQ Analytics — Dining Intelligence</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+{% set ambient = true %}{% include '_scene.html' %}
+<div class="app">
+  <aside class="side" id="side">
+    <div class="brand">
+      <div class="mark">DI</div>
+      <div><h1>DineIQ<span style="color:var(--brand)"> Analytics</span></h1>
+        <a class="pulse-word" href="{{ url_for('about') }}" title="About Data Pulse — click to learn more">Data Pulse</a></div>
+    </div>
+    <nav class="nav" id="nav"><!-- built by JS --></nav>
+    {% if 'admin' in perms %}
+    <a class="nav-admin btn" href="{{ url_for('admin') }}" style="justify-content:flex-start;gap:10px;font-size:13px;margin-bottom:6px">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l7 4v6c0 4-3 7-7 8-4-1-7-4-7-8V6z"/><path d="M9 12l2 2 4-4"/></svg>
+      Admin console
+    </a>
+    {% endif %}
+    <div class="userchip">
+      {% set uname = user.name if user and user.name else 'User' %}
+      <div class="av">{{ (uname[:1] ~ (uname.split(' ')[1][:1] if uname.split(' ')|length > 1 else ''))|upper }}</div>
+      <div class="who"><b>{{ user.name }}</b><span class="role-pill role-{{ user.role }}">{{ user.role }}</span></div>
+      <a class="out" href="{{ url_for('logout') }}" title="Log out">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 17l5-5-5-5M21 12H9M12 19H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h7"/></svg>
+      </a>
+    </div>
+
+    <!-- what THIS role can actually do — different for Analyst / Manager / Admin -->
+    <div class="rolecard">
+      <div class="rc-head">{{ user.role }} access</div>
+      <ul class="rc-list">
+        <li class="{{ 'on' if 'view' in perms else 'off' }}">View all 11 analytics boards</li>
+        <li class="{{ 'on' if 'export' in perms else 'off' }}">Download reports — CSV &amp; Excel</li>
+        <li class="{{ 'on' if 'export' in perms else 'off' }}">What-If planning lab</li>
+        <li class="{{ 'on' if 'admin' in perms else 'off' }}">Admin console &amp; audit log</li>
+      </ul>
+    </div>
+    <div class="foot"><span><span class="pulse"></span> Pipeline: healthy</span><span>v1.0</span></div>
+  </aside>
+
+  <div class="main">
+    <header class="topbar">
+      <button class="btn icon-btn menu-toggle" id="burger" title="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <div class="title"><b id="pageTitle">Executive Dashboard</b><span id="pageSub">Restaurant-wide performance at a glance</span></div>
+      <div class="filters">
+        <button class="btn" id="filterBtn" title="Filter the data">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h18M6 12h12M10 19h4"/></svg>
+          Filters <span class="fcount" id="fCount"></span>
+        </button>
+        {% if 'export' in perms %}
+        <button class="btn" id="exportBtn">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 10l5 5 5-5M4 21h16"/></svg> Export
+        </button>
+        {% endif %}
+        <button class="btn icon-btn" id="themeBtn" title="Toggle theme">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A8 8 0 1 1 11.2 3 6.5 6.5 0 0 0 21 12.8z"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- live filter bar (SRS step 48) -->
+    <div class="filterbar" id="filterbar" hidden>
+      <div class="fb-grid">
+        <div class="fb"><label>Date from</label><input type="date" id="f_date_from"></div>
+        <div class="fb"><label>Date to</label><input type="date" id="f_date_to"></div>
+        <div class="fb"><label>Location</label><select id="f_location"><option value="all">All locations</option></select></div>
+        <div class="fb"><label>Category</label><select id="f_category"><option value="all">All categories</option></select></div>
+        <div class="fb"><label>Menu item</label><select id="f_item"><option value="all">All items</option></select></div>
+        <div class="fb"><label>Customer segment</label><select id="f_segment"><option value="all">All segments</option></select></div>
+        <div class="fb"><label>Ordering channel</label><select id="f_channel"><option value="all">All channels</option></select></div>
+        <div class="fb"><label>Promotion</label><select id="f_promotion"><option value="all">All promotions</option></select></div>
+        <div class="fb"><label>Performance class</label><select id="f_klass"><option value="all">All classes</option></select></div>
+        <div class="fb"><label>Price range ($)</label><div class="fb-range"><input type="number" id="f_price_min" placeholder="min" min="0"><input type="number" id="f_price_max" placeholder="max" min="0"></div></div>
+        <div class="fb"><label>Min rating</label><select id="f_rating_min"><option value="">Any</option><option value="3">3.0+</option><option value="3.5">3.5+</option><option value="4">4.0+</option><option value="4.5">4.5+</option></select></div>
+        <div class="fb"><label>Wastage range (%)</label><div class="fb-range"><input type="number" id="f_waste_min" placeholder="min" min="0"><input type="number" id="f_waste_max" placeholder="max" min="0"></div></div>
+      </div>
+      <div class="fb-actions">
+        <span class="fb-result" id="fbResult"></span>
+        <button class="btn" id="fbReset">Reset</button>
+        <button class="btn primary" id="fbApply">Apply filters</button>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <section class="page on" id="page-home"></section>
+      <section class="page" id="page-exec"></section>
+      <section class="page" id="page-menu"></section>
+      <section class="page" id="page-customer"></section>
+      <section class="page" id="page-wastage"></section>
+      <section class="page" id="page-forecast"></section>
+      <section class="page" id="page-pricing"></section>
+      <section class="page" id="page-basket"></section>
+      <section class="page" id="page-location"></section>
+      <section class="page" id="page-dual"></section>
+      <section class="page" id="page-anomaly"></section>
+      <section class="page" id="page-recs"></section>
+      <section class="page" id="page-whatif"></section>
+      <section class="page" id="page-reports"></section>
+    </div>
+  </div>
+</div>
+<div class="tt" id="tooltip"></div>
+
+<!-- Excel-like report viewer (open to every role, Analyst included) -->
+<div class="xl-modal" id="xlModal" hidden>
+  <div class="xl-box">
+    <div class="xl-head">
+      <div><b id="xlTitle">Report</b><span class="xl-meta" id="xlMeta"></span></div>
+      <button class="btn icon-btn" id="xlClose" title="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="xl-scroll" id="xlScroll"><div class="muted" style="padding:20px">Loading…</div></div>
+  </div>
+</div>
+
+<!-- built-in data assistant (chatbot) -->
+<button class="chatfab" id="chatFab" title="Ask the data assistant">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.4 8.4 0 0 1-8.5 8.4 8.9 8.9 0 0 1-3.9-.9L3 20.5l1.6-4.4A8.4 8.4 0 1 1 21 11.5z"/></svg>
+</button>
+<div class="chatbox" id="chatBox" hidden>
+  <div class="chat-head">
+    <div class="chat-id"><span class="chat-dot"></span><b>Data Pulse Assistant</b></div>
+    <button class="btn icon-btn" id="chatClose" title="Close">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+  <div class="chat-log" id="chatLog"></div>
+  <div class="chat-chips" id="chatChips">
+    <button data-q="Total revenue?">Revenue</button>
+    <button data-q="What's my top item?">Top item</button>
+    <button data-q="How bad is wastage?">Wastage</button>
+    <button data-q="Best location?">Locations</button>
+    <button data-q="What should I do?">Actions</button>
+  </div>
+  <form class="chat-input" id="chatForm">
+    <input type="text" id="chatText" placeholder="Ask about your data…" autocomplete="off" />
+    <button class="btn primary" type="submit" title="Send">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L11 13M22 2l-7 20-4-9-9-4z"/></svg>
+    </button>
+  </form>
+</div>
+
+<script>window.DINEIQ = {{ data|tojson }};
+window.PERMS = {{ perms|list|tojson }};</script>
+<script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+<script src="{{ url_for('static', filename='fx.js') }}"></script>
+</body>
+</html>
